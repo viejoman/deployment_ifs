@@ -1,0 +1,55 @@
+22-02-2018 11:24:18 - INI setNuevoItinerario
+22-02-2018 11:24:18 - NUM REGISTROS : 1
+22-02-2018 11:24:18 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_184VBJAmaAD7l0kJ
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => SEFJIDg1MA==
+    [sNumViaje] => Vi41ODEtZGVtbw==
+    [sSalida] => 16/03/2018
+    [sCierredoc] => 11/03/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTkgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 2
+    [sUsuario] => Yeni
+    [nMes] => 3
+)
+
+22-02-2018 11:24:18 - REGISTRO [0] : Se crea objeto itinerario
+22-02-2018 11:24:18 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_184VBJAmaAD7l0kJ
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => HAI 850 V.581-demo
+    [numviaje] => V.581-demo
+    [salida] => 16-03-2018
+    [cierredoc] => 11-03-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19 DIAS
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 03
+)
+
+22-02-2018 11:24:18 - REGISTRO [0] : Operacion UPDATE
+22-02-2018 11:24:18 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_184VBJAmaAD7l0kJ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+22-02-2018 11:24:18 - FIN setNuevoItinerario

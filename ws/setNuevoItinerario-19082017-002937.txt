@@ -1,0 +1,55 @@
+19-08-2017 00:29:37 - INI setNuevoItinerario
+19-08-2017 00:29:37 - NUM REGISTROS : 1
+19-08-2017 00:29:37 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_JLm8Rs3qoqkjs4tM
+    [sExpImp] => expo
+    [sOrigen] => 
+    [sDestino] => QnVlbmF2ZW50dXJh
+    [sPuerto] => TWFuemFuaWxsbw==
+    [sBuque] => SU5TSUdOSUEgZw==
+    [sNumViaje] => VjAwMQ==
+    [sSalida] => 28/08/2017
+    [sCierredoc] => 15/08/2017
+    [sCierredesp] => 15/08/2017
+    [sFrecuencia] => U2VtYW5hbA==
+    [sTransito] => MTUgZMOtYXM=
+    [sConexiones] => RGlyZWN0bw==
+    [nCRUDAction] => 2
+    [sUsuario] => Yeni
+    [nMes] => 8
+)
+
+19-08-2017 00:29:37 - REGISTRO [0] : Se crea objeto itinerario
+19-08-2017 00:29:37 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_JLm8Rs3qoqkjs4tM
+    [expimp] => exp
+    [origen] => 
+    [destino] => Buenaventura
+    [puerto] => Manzanillo
+    [buque] => INSIGNIA g V001
+    [numviaje] => V001
+    [salida] => 28-08-2017
+    [cierredoc] => 15-08-2017
+    [cierredesp] => 15-08-2017
+    [frecuencia] => Semanal
+    [transito] => 15 días
+    [conexiones] => Directo
+    [user] => Yeni
+    [mes] => 08
+)
+
+19-08-2017 00:29:37 - REGISTRO [0] : Operacion UPDATE
+19-08-2017 00:29:37 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_JLm8Rs3qoqkjs4tM
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+19-08-2017 00:29:37 - FIN setNuevoItinerario

@@ -1,0 +1,823 @@
+20-12-2017 16:53:57 - INI setNuevoItinerario
+20-12-2017 16:53:57 - NUM REGISTROS : 17
+20-12-2017 16:53:57 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_UpJkH5cEe0YhHqkj
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VkVORVRJS08=
+    [sNumViaje] => MVc=
+    [sSalida] => 20/12/2017
+    [sCierredoc] => 15/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [0] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_UpJkH5cEe0YhHqkj
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => VENETIKO 1W
+    [numviaje] => 1W
+    [salida] => 20-12-2017
+    [cierredoc] => 15-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [0] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_SrXMBs5eeNETZlJY
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => UklPIEJMQUNLV0FURVI=
+    [sNumViaje] => MVc=
+    [sSalida] => 27/12/2017
+    [sCierredoc] => 22/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [1] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_SrXMBs5eeNETZlJY
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => RIO BLACKWATER 1W
+    [numviaje] => 1W
+    [salida] => 27-12-2017
+    [cierredoc] => 22-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [1] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_ahJwOrLXEs3uGpD6
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VUFTQyBCVUJJWUFO
+    [sNumViaje] => MVc=
+    [sSalida] => 03/01/2018
+    [sCierredoc] => 29/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [2] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_ahJwOrLXEs3uGpD6
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => UASC BUBIYAN 1W
+    [numviaje] => 1W
+    [salida] => 03-01-2018
+    [cierredoc] => 29-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [2] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_I8E55v7ViSpquOgL
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => QlJVU1NFTFM=
+    [sNumViaje] => MVc=
+    [sSalida] => 10/01/2018
+    [sCierredoc] => 05/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [3] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_I8E55v7ViSpquOgL
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => BRUSSELS 1W
+    [numviaje] => 1W
+    [salida] => 10-01-2018
+    [cierredoc] => 05-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [3] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_Ee9kQx8qXpeaD438
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => U0FOVEEgVkFORVNTQQ==
+    [sNumViaje] => MTQ5R1lX
+    [sSalida] => 17/01/2018
+    [sCierredoc] => 12/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [4] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_Ee9kQx8qXpeaD438
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => SANTA VANESSA 149GYW
+    [numviaje] => 149GYW
+    [salida] => 17-01-2018
+    [cierredoc] => 12-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [4] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [5] : ITINERARIO => Array
+(
+    [sUID] => itid_uc814YmxbqK5AHMX
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => UklPIEJMQUNLV0FURVI=
+    [sNumViaje] => MTQzR1lX
+    [sSalida] => 25/12/2017
+    [sCierredoc] => 20/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [5] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [5] : DATA => Array
+(
+    [itid] => itid_uc814YmxbqK5AHMX
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => RIO BLACKWATER 143GYW
+    [numviaje] => 143GYW
+    [salida] => 25-12-2017
+    [cierredoc] => 20-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [5] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [6] : ITINERARIO => Array
+(
+    [sUID] => itid_olzgpFtmj303C5DX
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VUFTQyBCVUJJWUFO
+    [sNumViaje] => MTQ1R1lX
+    [sSalida] => 01/01/2018
+    [sCierredoc] => 27/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [6] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [6] : DATA => Array
+(
+    [itid] => itid_olzgpFtmj303C5DX
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => UASC BUBIYAN 145GYW
+    [numviaje] => 145GYW
+    [salida] => 01-01-2018
+    [cierredoc] => 27-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [6] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [7] : ITINERARIO => Array
+(
+    [sUID] => itid_j18wnpNDW1No9q2e
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => QlJVU1NFTFM=
+    [sNumViaje] => MVc=
+    [sSalida] => 08/01/2018
+    [sCierredoc] => 04/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [7] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [7] : DATA => Array
+(
+    [itid] => itid_j18wnpNDW1No9q2e
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => BRUSSELS 1W
+    [numviaje] => 1W
+    [salida] => 08-01-2018
+    [cierredoc] => 04-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [7] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [8] : ITINERARIO => Array
+(
+    [sUID] => itid_46qN5t1kSwfS1XIn
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => U0FOVEEgVkFORVNTQQ==
+    [sNumViaje] => Mlc=
+    [sSalida] => 15/01/2018
+    [sCierredoc] => 11/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [8] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [8] : DATA => Array
+(
+    [itid] => itid_46qN5t1kSwfS1XIn
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => SANTA VANESSA 2W
+    [numviaje] => 2W
+    [salida] => 15-01-2018
+    [cierredoc] => 11-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [8] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [9] : ITINERARIO => Array
+(
+    [sUID] => itid_qbOchDuLils0Cj9x
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgUklUQQ==
+    [sNumViaje] => NzUwRQ==
+    [sSalida] => 21/12/2017
+    [sCierredoc] => 18/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [9] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [9] : DATA => Array
+(
+    [itid] => itid_qbOchDuLils0Cj9x
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA RITA 750E
+    [numviaje] => 750E
+    [salida] => 21-12-2017
+    [cierredoc] => 18-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [9] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [10] : ITINERARIO => Array
+(
+    [sUID] => itid_VdEBzIjPpRCOxO2S
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExPREVTVEFS
+    [sNumViaje] => MjcwOUU=
+    [sSalida] => 24/12/2017
+    [sCierredoc] => 20/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [10] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [10] : DATA => Array
+(
+    [itid] => itid_VdEBzIjPpRCOxO2S
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LODESTAR 2709E
+    [numviaje] => 2709E
+    [salida] => 24-12-2017
+    [cierredoc] => 20-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [10] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [11] : ITINERARIO => Array
+(
+    [sUID] => itid_wnVgYLXzwkaVoiRy
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgQkFSQkFSQQ==
+    [sNumViaje] => NzUxRQ==
+    [sSalida] => 28/12/2017
+    [sCierredoc] => 22/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [11] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [11] : DATA => Array
+(
+    [itid] => itid_wnVgYLXzwkaVoiRy
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA BARBARA 751E
+    [numviaje] => 751E
+    [salida] => 28-12-2017
+    [cierredoc] => 22-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [11] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [12] : ITINERARIO => Array
+(
+    [sUID] => itid_rULOpQLNxT7wY7NF
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExJQlJB
+    [sNumViaje] => MjcxMEU=
+    [sSalida] => 31/12/2017
+    [sCierredoc] => 27/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [12] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [12] : DATA => Array
+(
+    [itid] => itid_rULOpQLNxT7wY7NF
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LIBRA 2710E
+    [numviaje] => 2710E
+    [salida] => 31-12-2017
+    [cierredoc] => 27-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [12] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [13] : ITINERARIO => Array
+(
+    [sUID] => itid_iqbQdAjrmoBBa2AU
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgUk9TQQ==
+    [sNumViaje] => NzUyRQ==
+    [sSalida] => 04/01/2018
+    [sCierredoc] => 29/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [13] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [13] : DATA => Array
+(
+    [itid] => itid_iqbQdAjrmoBBa2AU
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA ROSA 752E
+    [numviaje] => 752E
+    [salida] => 04-01-2018
+    [cierredoc] => 29-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [13] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [14] : ITINERARIO => Array
+(
+    [sUID] => itid_IjLtLcAz6aKk2bbh
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q0FQRSBQSU9ORUVS
+    [sNumViaje] => MjcxMUU=
+    [sSalida] => 07/01/2018
+    [sCierredoc] => 03/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [14] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [14] : DATA => Array
+(
+    [itid] => itid_IjLtLcAz6aKk2bbh
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CAPE PIONEER 2711E
+    [numviaje] => 2711E
+    [salida] => 07-01-2018
+    [cierredoc] => 03-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [14] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [15] : ITINERARIO => Array
+(
+    [sUID] => itid_jx8JjDXCAtrBYYR6
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgSU5FUw==
+    [sNumViaje] => ODAxRQ==
+    [sSalida] => 11/01/2018
+    [sCierredoc] => 08/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [15] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [15] : DATA => Array
+(
+    [itid] => itid_jx8JjDXCAtrBYYR6
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA INES 801E
+    [numviaje] => 801E
+    [salida] => 11-01-2018
+    [cierredoc] => 08-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [15] : Operacion INSERT
+20-12-2017 16:53:57 - REGISTRO [16] : ITINERARIO => Array
+(
+    [sUID] => itid_Tv9Vr5rjHr0JwuCx
+    [sExpImp] => impo
+    [sOrigen] => QlVTQU4=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExFTw==
+    [sNumViaje] => MjgwMUU=
+    [sSalida] => 14/01/2018
+    [sCierredoc] => 10/01/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [16] : Se crea objeto itinerario
+20-12-2017 16:53:57 - REGISTRO [16] : DATA => Array
+(
+    [itid] => itid_Tv9Vr5rjHr0JwuCx
+    [expimp] => imp
+    [origen] => BUSAN
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LEO 2801E
+    [numviaje] => 2801E
+    [salida] => 14-01-2018
+    [cierredoc] => 10-01-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 16:53:57 - REGISTRO [16] : Operacion INSERT
+20-12-2017 16:53:57 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_UpJkH5cEe0YhHqkj
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_SrXMBs5eeNETZlJY
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_ahJwOrLXEs3uGpD6
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_I8E55v7ViSpquOgL
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_Ee9kQx8qXpeaD438
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [5] => Array
+        (
+            [sUID] => itid_uc814YmxbqK5AHMX
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [6] => Array
+        (
+            [sUID] => itid_olzgpFtmj303C5DX
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [7] => Array
+        (
+            [sUID] => itid_j18wnpNDW1No9q2e
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [8] => Array
+        (
+            [sUID] => itid_46qN5t1kSwfS1XIn
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [9] => Array
+        (
+            [sUID] => itid_qbOchDuLils0Cj9x
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [10] => Array
+        (
+            [sUID] => itid_VdEBzIjPpRCOxO2S
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [11] => Array
+        (
+            [sUID] => itid_wnVgYLXzwkaVoiRy
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [12] => Array
+        (
+            [sUID] => itid_rULOpQLNxT7wY7NF
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [13] => Array
+        (
+            [sUID] => itid_iqbQdAjrmoBBa2AU
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [14] => Array
+        (
+            [sUID] => itid_IjLtLcAz6aKk2bbh
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [15] => Array
+        (
+            [sUID] => itid_jx8JjDXCAtrBYYR6
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [16] => Array
+        (
+            [sUID] => itid_Tv9Vr5rjHr0JwuCx
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+20-12-2017 16:53:57 - FIN setNuevoItinerario

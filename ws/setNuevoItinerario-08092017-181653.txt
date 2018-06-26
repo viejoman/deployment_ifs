@@ -1,0 +1,487 @@
+08-09-2017 18:16:53 - INI setNuevoItinerario
+08-09-2017 18:16:53 - NUM REGISTROS : 10
+08-09-2017 18:16:53 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_Dvbff2oy6BpAUm7N
+    [sExpImp] => IMPO
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgU1VTQU4gTUFFUlNL
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 29/08/2017
+    [sCierredoc] => 21/08/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [0] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_Dvbff2oy6BpAUm7N
+    [expimp] => IMP
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   SUSAN MAERSK   1707
+    [numviaje] =>   1707
+    [salida] => 29-08-2017
+    [cierredoc] => 21-08-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [0] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_w7DDwPMeuy1KW6Lg
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgQU9URUEgTUFFUlNL
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 07/09/2017
+    [sCierredoc] => 28/08/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [1] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_w7DDwPMeuy1KW6Lg
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   AOTEA MAERSK   1707
+    [numviaje] =>   1707
+    [salida] => 07-09-2017
+    [cierredoc] => 28-08-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [1] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_b72os4NLsdzLCpnj
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgKk1BRVJTSyBBTlRBUkVT
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 11/09/2017
+    [sCierredoc] => 04/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [2] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_b72os4NLsdzLCpnj
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   *MAERSK ANTARES   1707
+    [numviaje] =>   1707
+    [salida] => 11-09-2017
+    [cierredoc] => 04-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [2] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_5k95YTNcxSPIZibX
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgQ0FSU1RFTiBNQUVSU0s=
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 18/09/2017
+    [sCierredoc] => 11/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [3] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_5k95YTNcxSPIZibX
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   CARSTEN MAERSK   1707
+    [numviaje] =>   1707
+    [salida] => 18-09-2017
+    [cierredoc] => 11-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [3] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_h0VVCmiiynunnGE2
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgU0lORSBNQUVSU0s=
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 25/09/2017
+    [sCierredoc] => 15/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [4] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_h0VVCmiiynunnGE2
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   SINE MAERSK   1707
+    [numviaje] =>   1707
+    [salida] => 25-09-2017
+    [cierredoc] => 15-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [4] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [5] : ITINERARIO => Array
+(
+    [sUID] => itid_VB8GrzEprxtY0hFX
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgU09ST0UgTUFFUlNL
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 02/10/2017
+    [sCierredoc] => 25/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [5] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [5] : DATA => Array
+(
+    [itid] => itid_VB8GrzEprxtY0hFX
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   SOROE MAERSK   1707
+    [numviaje] =>   1707
+    [salida] => 02-10-2017
+    [cierredoc] => 25-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [5] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [6] : ITINERARIO => Array
+(
+    [sUID] => itid_FUUqPQNrwDPrmvhQ
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgU1ZFTkRCT1JHIE1BRVJTSw==
+    [sNumViaje] => wqAgMTcwNw==
+    [sSalida] => 09/10/2017
+    [sCierredoc] => 02/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [6] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [6] : DATA => Array
+(
+    [itid] => itid_FUUqPQNrwDPrmvhQ
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   SVENDBORG MAERSK   1707
+    [numviaje] =>   1707
+    [salida] => 09-10-2017
+    [cierredoc] => 02-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [6] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [7] : ITINERARIO => Array
+(
+    [sUID] => itid_Kv50wZLx0FnWcCx9
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgR1VMRiBCUklER0U=
+    [sNumViaje] => wqAgMTcwOQ==
+    [sSalida] => 16/10/2017
+    [sCierredoc] => 06/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [7] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [7] : DATA => Array
+(
+    [itid] => itid_Kv50wZLx0FnWcCx9
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   GULF BRIDGE   1709
+    [numviaje] =>   1709
+    [salida] => 16-10-2017
+    [cierredoc] => 06-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [7] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [8] : ITINERARIO => Array
+(
+    [sUID] => itid_nYPFDjegNmwLfGZd
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgU0FMTFkgTUFFUlNL
+    [sNumViaje] => wqAgMTcxMw==
+    [sSalida] => 23/10/2017
+    [sCierredoc] => 16/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [8] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [8] : DATA => Array
+(
+    [itid] => itid_nYPFDjegNmwLfGZd
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   SALLY MAERSK   1713
+    [numviaje] =>   1713
+    [salida] => 23-10-2017
+    [cierredoc] => 16-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [8] : Operacion INSERT
+08-09-2017 18:16:53 - REGISTRO [9] : ITINERARIO => Array
+(
+    [sUID] => itid_DlA1MtExReYiQH4W
+    [sExpImp] => impo
+    [sOrigen] => WU9LT0hBTUE=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => wqAgQ09STkVMSVVTIE1BRVJTSw==
+    [sNumViaje] => wqAgMTcwOQ==
+    [sSalida] => 30/10/2017
+    [sCierredoc] => 23/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:16:53 - REGISTRO [9] : Se crea objeto itinerario
+08-09-2017 18:16:53 - REGISTRO [9] : DATA => Array
+(
+    [itid] => itid_DlA1MtExReYiQH4W
+    [expimp] => imp
+    [origen] => YOKOHAMA
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] =>   CORNELIUS MAERSK   1709
+    [numviaje] =>   1709
+    [salida] => 30-10-2017
+    [cierredoc] => 23-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:16:53 - REGISTRO [9] : Operacion INSERT
+08-09-2017 18:16:53 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_Dvbff2oy6BpAUm7N
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_w7DDwPMeuy1KW6Lg
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_b72os4NLsdzLCpnj
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_5k95YTNcxSPIZibX
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_h0VVCmiiynunnGE2
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [5] => Array
+        (
+            [sUID] => itid_VB8GrzEprxtY0hFX
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [6] => Array
+        (
+            [sUID] => itid_FUUqPQNrwDPrmvhQ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [7] => Array
+        (
+            [sUID] => itid_Kv50wZLx0FnWcCx9
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [8] => Array
+        (
+            [sUID] => itid_nYPFDjegNmwLfGZd
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [9] => Array
+        (
+            [sUID] => itid_DlA1MtExReYiQH4W
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+08-09-2017 18:16:53 - FIN setNuevoItinerario

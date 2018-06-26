@@ -1,0 +1,199 @@
+06-10-2017 12:52:30 - INI setNuevoItinerario
+06-10-2017 12:52:30 - NUM REGISTROS : 4
+06-10-2017 12:52:30 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_Oalcyd1qA3AeikJp
+    [sExpImp] => impo
+    [sOrigen] => R1VBWUFRVUlM
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => SlBPIFZVTFBFQ1VMQQ==
+    [sNumViaje] => Vi4xOQ==
+    [sSalida] => 07/10/2017
+    [sCierredoc] => 04/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTI=
+    [sConexiones] => Q0FMTEFP
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [0] : Se crea objeto itinerario
+06-10-2017 12:52:30 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_Oalcyd1qA3AeikJp
+    [expimp] => imp
+    [origen] => GUAYAQUIL
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => JPO VULPECULA V.19
+    [numviaje] => V.19
+    [salida] => 07-10-2017
+    [cierredoc] => 04-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 12
+    [conexiones] => CALLAO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [0] : Operacion INSERT
+06-10-2017 12:52:30 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_euVTtYKENbwg67FX
+    [sExpImp] => impo
+    [sOrigen] => R1VBWUFRVUlM
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSA1MTU=
+    [sNumViaje] => Vi40MQ==
+    [sSalida] => 14/10/2017
+    [sCierredoc] => 11/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTI=
+    [sConexiones] => Q0FMTEFP
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [1] : Se crea objeto itinerario
+06-10-2017 12:52:30 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_euVTtYKENbwg67FX
+    [expimp] => imp
+    [origen] => GUAYAQUIL
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 515 V.41
+    [numviaje] => V.41
+    [salida] => 14-10-2017
+    [cierredoc] => 11-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 12
+    [conexiones] => CALLAO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [1] : Operacion INSERT
+06-10-2017 12:52:30 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_2kgraCV62bS7gMr5
+    [sExpImp] => impo
+    [sOrigen] => R1VBWUFRVUlM
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => S09UQSBMQVlBTkc=
+    [sNumViaje] => Vi41OA==
+    [sSalida] => 21/10/2017
+    [sCierredoc] => 18/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTI=
+    [sConexiones] => Q0FMTEFP
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [2] : Se crea objeto itinerario
+06-10-2017 12:52:30 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_2kgraCV62bS7gMr5
+    [expimp] => imp
+    [origen] => GUAYAQUIL
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => KOTA LAYANG V.58
+    [numviaje] => V.58
+    [salida] => 21-10-2017
+    [cierredoc] => 18-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 12
+    [conexiones] => CALLAO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [2] : Operacion INSERT
+06-10-2017 12:52:30 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_vcYc1KQsjCYlk54W
+    [sExpImp] => impo
+    [sOrigen] => R1VBWUFRVUlM
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSA1MTI=
+    [sNumViaje] => Vi40Mg==
+    [sSalida] => 28/10/2017
+    [sCierredoc] => 25/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTI=
+    [sConexiones] => Q0FMTEFP
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [3] : Se crea objeto itinerario
+06-10-2017 12:52:30 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_vcYc1KQsjCYlk54W
+    [expimp] => imp
+    [origen] => GUAYAQUIL
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 512 V.42
+    [numviaje] => V.42
+    [salida] => 28-10-2017
+    [cierredoc] => 25-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 12
+    [conexiones] => CALLAO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:52:30 - REGISTRO [3] : Operacion INSERT
+06-10-2017 12:52:30 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_Oalcyd1qA3AeikJp
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_euVTtYKENbwg67FX
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_2kgraCV62bS7gMr5
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_vcYc1KQsjCYlk54W
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+06-10-2017 12:52:30 - FIN setNuevoItinerario

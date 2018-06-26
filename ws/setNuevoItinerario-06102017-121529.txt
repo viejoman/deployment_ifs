@@ -1,0 +1,871 @@
+06-10-2017 12:15:28 - INI setNuevoItinerario
+06-10-2017 12:15:28 - NUM REGISTROS : 18
+06-10-2017 12:15:28 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_7cO1z2W2ImSLeAts
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => U0FOVEEgVkFORVNTQQ==
+    [sNumViaje] => MTIxR1lX
+    [sSalida] => 09/10/2017
+    [sCierredoc] => 05/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [0] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_7cO1z2W2ImSLeAts
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => SANTA VANESSA 121GYW
+    [numviaje] => 121GYW
+    [salida] => 09-10-2017
+    [cierredoc] => 05-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [0] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_FmDdRenxFIL7991s
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => U0FOVEEgVkFORVNTQQ==
+    [sNumViaje] => Vi4z
+    [sSalida] => 11/10/2017
+    [sCierredoc] => 06/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [1] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_FmDdRenxFIL7991s
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => SANTA VANESSA V.3
+    [numviaje] => V.3
+    [salida] => 11-10-2017
+    [cierredoc] => 06-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [1] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_DvLivkDjADXYYMR4
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VE9LWU8gRVhQUkVTUw==
+    [sNumViaje] => MTIzR1lX
+    [sSalida] => 16/10/2017
+    [sCierredoc] => 11/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [2] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_DvLivkDjADXYYMR4
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => TOKYO EXPRESS 123GYW
+    [numviaje] => 123GYW
+    [salida] => 16-10-2017
+    [cierredoc] => 11-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [2] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_BPTz7CL2WY9628j2
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VE9LWU8gRVhQUkVTUw==
+    [sNumViaje] => Vi4z
+    [sSalida] => 18/10/2017
+    [sCierredoc] => 13/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [3] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_BPTz7CL2WY9628j2
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => TOKYO EXPRESS V.3
+    [numviaje] => V.3
+    [salida] => 18-10-2017
+    [cierredoc] => 13-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [3] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_ts0X4ycs76UJaTQd
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => R0VOT0E=
+    [sNumViaje] => MTI1R1lX
+    [sSalida] => 23/10/2017
+    [sCierredoc] => 19/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [4] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_ts0X4ycs76UJaTQd
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => GENOA 125GYW
+    [numviaje] => 125GYW
+    [salida] => 23-10-2017
+    [cierredoc] => 19-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [4] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [5] : ITINERARIO => Array
+(
+    [sUID] => itid_1CLSZCQ6W1Cw1vXC
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => R0VOT0E=
+    [sNumViaje] => Vi4z
+    [sSalida] => 25/10/2017
+    [sCierredoc] => 20/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [5] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [5] : DATA => Array
+(
+    [itid] => itid_1CLSZCQ6W1Cw1vXC
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => GENOA V.3
+    [numviaje] => V.3
+    [salida] => 25-10-2017
+    [cierredoc] => 20-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [5] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [6] : ITINERARIO => Array
+(
+    [sUID] => itid_XNbSNgeB6MhgIz4j
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VkVORVRJS08=
+    [sNumViaje] => MTI3R1lX
+    [sSalida] => 30/10/2017
+    [sCierredoc] => 26/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [6] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [6] : DATA => Array
+(
+    [itid] => itid_XNbSNgeB6MhgIz4j
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => VENETIKO 127GYW
+    [numviaje] => 127GYW
+    [salida] => 30-10-2017
+    [cierredoc] => 26-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [6] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [7] : ITINERARIO => Array
+(
+    [sUID] => itid_9fh3Mm0Gf7sZBWgs
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VkVORVRJS08=
+    [sNumViaje] => Vi40
+    [sSalida] => 01/11/2017
+    [sCierredoc] => 27/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [7] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [7] : DATA => Array
+(
+    [itid] => itid_9fh3Mm0Gf7sZBWgs
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => VENETIKO V.4
+    [numviaje] => V.4
+    [salida] => 01-11-2017
+    [cierredoc] => 27-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [7] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [8] : ITINERARIO => Array
+(
+    [sUID] => itid_7WJzscxxRRf28j9S
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => UklPIEJMQUNLV0FURVI=
+    [sNumViaje] => Vi4xMw==
+    [sSalida] => 08/11/2017
+    [sCierredoc] => 03/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [8] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [8] : DATA => Array
+(
+    [itid] => itid_7WJzscxxRRf28j9S
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => RIO BLACKWATER V.13
+    [numviaje] => V.13
+    [salida] => 08-11-2017
+    [cierredoc] => 03-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [8] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [9] : ITINERARIO => Array
+(
+    [sUID] => itid_IpMCPEpVyA0mT0Lx
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => QlJVU1NFTFM=
+    [sNumViaje] => Vi4xMg==
+    [sSalida] => 06/10/2017
+    [sCierredoc] => 29/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTc=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [9] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [9] : DATA => Array
+(
+    [itid] => itid_IpMCPEpVyA0mT0Lx
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => BRUSSELS V.12
+    [numviaje] => V.12
+    [salida] => 06-10-2017
+    [cierredoc] => 29-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 17
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [9] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [10] : ITINERARIO => Array
+(
+    [sUID] => itid_ZtHtPePtalZfqPGr
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => U0FOVEEgVkFORVNTQQ==
+    [sNumViaje] => MTIxR1lX
+    [sSalida] => 09/10/2017
+    [sCierredoc] => 06/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [10] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [10] : DATA => Array
+(
+    [itid] => itid_ZtHtPePtalZfqPGr
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => SANTA VANESSA 121GYW
+    [numviaje] => 121GYW
+    [salida] => 09-10-2017
+    [cierredoc] => 06-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [10] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [11] : ITINERARIO => Array
+(
+    [sUID] => itid_oYVEbY1regofOmbI
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => U0FOVEEgVkFORVNTQQ==
+    [sNumViaje] => Vi4z
+    [sSalida] => 11/10/2017
+    [sCierredoc] => 06/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [11] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [11] : DATA => Array
+(
+    [itid] => itid_oYVEbY1regofOmbI
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => SANTA VANESSA V.3
+    [numviaje] => V.3
+    [salida] => 11-10-2017
+    [cierredoc] => 06-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [11] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [12] : ITINERARIO => Array
+(
+    [sUID] => itid_MmxV4PomOA0J94mf
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VE9LWU8gRVhQUkVTUw==
+    [sNumViaje] => MTIzR1lX
+    [sSalida] => 16/10/2017
+    [sCierredoc] => 13/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [12] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [12] : DATA => Array
+(
+    [itid] => itid_MmxV4PomOA0J94mf
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => TOKYO EXPRESS 123GYW
+    [numviaje] => 123GYW
+    [salida] => 16-10-2017
+    [cierredoc] => 13-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [12] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [13] : ITINERARIO => Array
+(
+    [sUID] => itid_wAlsf3QA8sJeZSAT
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VE9LWU8gRVhQUkVTUw==
+    [sNumViaje] => Vi4z
+    [sSalida] => 18/10/2017
+    [sCierredoc] => 13/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [13] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [13] : DATA => Array
+(
+    [itid] => itid_wAlsf3QA8sJeZSAT
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => TOKYO EXPRESS V.3
+    [numviaje] => V.3
+    [salida] => 18-10-2017
+    [cierredoc] => 13-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [13] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [14] : ITINERARIO => Array
+(
+    [sUID] => itid_TnvKBkPDMoSYDJy5
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => R0VOT0E=
+    [sNumViaje] => MTI1R1lX
+    [sSalida] => 23/10/2017
+    [sCierredoc] => 19/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [14] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [14] : DATA => Array
+(
+    [itid] => itid_TnvKBkPDMoSYDJy5
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => GENOA 125GYW
+    [numviaje] => 125GYW
+    [salida] => 23-10-2017
+    [cierredoc] => 19-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [14] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [15] : ITINERARIO => Array
+(
+    [sUID] => itid_Ds8SVHse46fy0RiO
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => R0VOT0E=
+    [sNumViaje] => Vi4z
+    [sSalida] => 25/10/2017
+    [sCierredoc] => 20/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [15] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [15] : DATA => Array
+(
+    [itid] => itid_Ds8SVHse46fy0RiO
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => GENOA V.3
+    [numviaje] => V.3
+    [salida] => 25-10-2017
+    [cierredoc] => 20-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [15] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [16] : ITINERARIO => Array
+(
+    [sUID] => itid_KFmCI32Wt9P5mvJS
+    [sExpImp] => impo
+    [sOrigen] => QkFSQ0VMT05B
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VkVORVRJS08=
+    [sNumViaje] => MTI3R1lX
+    [sSalida] => 30/10/2017
+    [sCierredoc] => 26/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [16] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [16] : DATA => Array
+(
+    [itid] => itid_KFmCI32Wt9P5mvJS
+    [expimp] => imp
+    [origen] => BARCELONA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => VENETIKO 127GYW
+    [numviaje] => 127GYW
+    [salida] => 30-10-2017
+    [cierredoc] => 26-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [16] : Operacion INSERT
+06-10-2017 12:15:28 - REGISTRO [17] : ITINERARIO => Array
+(
+    [sUID] => itid_bBUxjADAhjswHhP8
+    [sExpImp] => impo
+    [sOrigen] => VkFMRU5DSUE=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => VkVORVRJS08=
+    [sNumViaje] => Vi40
+    [sSalida] => 02/11/2017
+    [sCierredoc] => 30/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [17] : Se crea objeto itinerario
+06-10-2017 12:15:28 - REGISTRO [17] : DATA => Array
+(
+    [itid] => itid_bBUxjADAhjswHhP8
+    [expimp] => imp
+    [origen] => VALENCIA
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => VENETIKO V.4
+    [numviaje] => V.4
+    [salida] => 02-11-2017
+    [cierredoc] => 30-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:15:28 - REGISTRO [17] : Operacion INSERT
+06-10-2017 12:15:28 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_7cO1z2W2ImSLeAts
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_FmDdRenxFIL7991s
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_DvLivkDjADXYYMR4
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_BPTz7CL2WY9628j2
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_ts0X4ycs76UJaTQd
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [5] => Array
+        (
+            [sUID] => itid_1CLSZCQ6W1Cw1vXC
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [6] => Array
+        (
+            [sUID] => itid_XNbSNgeB6MhgIz4j
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [7] => Array
+        (
+            [sUID] => itid_9fh3Mm0Gf7sZBWgs
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [8] => Array
+        (
+            [sUID] => itid_7WJzscxxRRf28j9S
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [9] => Array
+        (
+            [sUID] => itid_IpMCPEpVyA0mT0Lx
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [10] => Array
+        (
+            [sUID] => itid_ZtHtPePtalZfqPGr
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [11] => Array
+        (
+            [sUID] => itid_oYVEbY1regofOmbI
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [12] => Array
+        (
+            [sUID] => itid_MmxV4PomOA0J94mf
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [13] => Array
+        (
+            [sUID] => itid_wAlsf3QA8sJeZSAT
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [14] => Array
+        (
+            [sUID] => itid_TnvKBkPDMoSYDJy5
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [15] => Array
+        (
+            [sUID] => itid_Ds8SVHse46fy0RiO
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [16] => Array
+        (
+            [sUID] => itid_KFmCI32Wt9P5mvJS
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [17] => Array
+        (
+            [sUID] => itid_bBUxjADAhjswHhP8
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+06-10-2017 12:15:28 - FIN setNuevoItinerario

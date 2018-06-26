@@ -1,0 +1,53 @@
+19-08-2017 00:02:27 - INI setNuevoItinerario
+19-08-2017 00:02:27 - NUM REGISTROS : 1
+19-08-2017 00:02:27 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_0ivfrFBKjtZUD3Bk
+    [sExpImp] => expo
+    [sPuerto] => TWFuemFuaWxsbw==
+    [sBuque] => SU5TSUdOSUE=
+    [sNumViaje] => VjAwMDE=
+    [sSalida] => 28/08/2017
+    [sCierredoc] => 15/08/2017
+    [sCierredesp] => 18/08/2017
+    [sFrecuencia] => U2VtYW5hbA==
+    [sTransito] => MTggZMOtYXM=
+    [sConexiones] => RGlyZWN0bw==
+    [nCRUDAction] => 1
+    [sUsuario] => Yeni
+    [nMes] => 8
+)
+
+19-08-2017 00:02:27 - REGISTRO [0] : Se crea objeto itinerario
+19-08-2017 00:02:27 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_0ivfrFBKjtZUD3Bk
+    [expimp] => exp
+    [origen] => 
+    [destino] => 
+    [puerto] => Manzanillo
+    [buque] => INSIGNIA V0001
+    [numviaje] => V0001
+    [salida] => 28-08-2017
+    [cierredoc] => 15-08-2017
+    [cierredesp] => 18-08-2017
+    [frecuencia] => Semanal
+    [transito] => 18 días
+    [conexiones] => Directo
+    [user] => Yeni
+    [mes] => 08
+)
+
+19-08-2017 00:02:27 - REGISTRO [0] : Operacion INSERT
+19-08-2017 00:02:27 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_0ivfrFBKjtZUD3Bk
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+19-08-2017 00:02:27 - FIN setNuevoItinerario

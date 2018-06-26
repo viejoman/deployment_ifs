@@ -1,0 +1,151 @@
+07-06-2018 12:33:09 - INI setNuevoItinerario
+07-06-2018 12:33:09 - NUM REGISTROS : 3
+07-06-2018 12:33:09 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_4s97lxrLzwKSlt1i
+    [sExpImp] => IMPO
+    [sOrigen] => U09VVEhBTVBUT04=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Tk9SRElTRUxMQSAg
+    [sNumViaje] => ODI1Uw==
+    [sSalida] => 04/07/2018
+    [sCierredoc] => 28/06/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTkgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 7
+)
+
+07-06-2018 12:33:09 - REGISTRO [0] : Se crea objeto itinerario
+07-06-2018 12:33:09 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_4s97lxrLzwKSlt1i
+    [expimp] => IMP
+    [origen] => SOUTHAMPTON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => NORDISELLA   825S
+    [numviaje] => 825S
+    [salida] => 04-07-2018
+    [cierredoc] => 28-06-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 07
+)
+
+07-06-2018 12:33:09 - REGISTRO [0] : Operacion INSERT
+07-06-2018 12:33:09 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_gqIUxq6cjIvCRkOV
+    [sExpImp] => IMPO
+    [sOrigen] => TWlsYW4=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => QUxMRUdPUklBIA==
+    [sNumViaje] => MDNXMjY=
+    [sSalida] => 01/07/2018
+    [sCierredoc] => 27/06/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjAgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 7
+)
+
+07-06-2018 12:33:09 - REGISTRO [1] : Se crea objeto itinerario
+07-06-2018 12:33:09 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_gqIUxq6cjIvCRkOV
+    [expimp] => IMP
+    [origen] => Milan
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => ALLEGORIA  03W26
+    [numviaje] => 03W26
+    [salida] => 01-07-2018
+    [cierredoc] => 27-06-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 07
+)
+
+07-06-2018 12:33:09 - REGISTRO [1] : Operacion INSERT
+07-06-2018 12:33:09 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_BizJNvN20pSHACYL
+    [sExpImp] => IMPO
+    [sOrigen] => TWlsYW4=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VkVORVRJS08gMDlXMjg=
+    [sNumViaje] => MDlXMjg=
+    [sSalida] => 15/07/2018
+    [sCierredoc] => 11/07/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjAgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 7
+)
+
+07-06-2018 12:33:09 - REGISTRO [2] : Se crea objeto itinerario
+07-06-2018 12:33:09 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_BizJNvN20pSHACYL
+    [expimp] => IMP
+    [origen] => Milan
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => VENETIKO 09W28 09W28
+    [numviaje] => 09W28
+    [salida] => 15-07-2018
+    [cierredoc] => 11-07-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 07
+)
+
+07-06-2018 12:33:09 - REGISTRO [2] : Operacion INSERT
+07-06-2018 12:33:09 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_4s97lxrLzwKSlt1i
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_gqIUxq6cjIvCRkOV
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_BizJNvN20pSHACYL
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+07-06-2018 12:33:09 - FIN setNuevoItinerario

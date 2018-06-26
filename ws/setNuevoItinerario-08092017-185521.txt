@@ -1,0 +1,151 @@
+08-09-2017 18:55:21 - INI setNuevoItinerario
+08-09-2017 18:55:21 - NUM REGISTROS : 3
+08-09-2017 18:55:21 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_YQUyh2BsU5hPi8UA
+    [sExpImp] => impo
+    [sOrigen] => Q0FMTEFP
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExFTw==
+    [sNumViaje] => MjYwMVc=
+    [sSalida] => 20/09/2017
+    [sCierredoc] => 14/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => OA==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:55:21 - REGISTRO [0] : Se crea objeto itinerario
+08-09-2017 18:55:21 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_YQUyh2BsU5hPi8UA
+    [expimp] => imp
+    [origen] => CALLAO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LEO 2601W
+    [numviaje] => 2601W
+    [salida] => 20-09-2017
+    [cierredoc] => 14-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 8
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:55:21 - REGISTRO [0] : Operacion INSERT
+08-09-2017 18:55:21 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_uLN8PpBP7GduQNnD
+    [sExpImp] => impo
+    [sOrigen] => Q0FMTEFP
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TU9MIFBBQ0U=
+    [sNumViaje] => MjYwMlc=
+    [sSalida] => 27/09/2017
+    [sCierredoc] => 21/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => OA==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:55:21 - REGISTRO [1] : Se crea objeto itinerario
+08-09-2017 18:55:21 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_uLN8PpBP7GduQNnD
+    [expimp] => imp
+    [origen] => CALLAO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => MOL PACE 2602W
+    [numviaje] => 2602W
+    [salida] => 27-09-2017
+    [cierredoc] => 21-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 8
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:55:21 - REGISTRO [1] : Operacion INSERT
+08-09-2017 18:55:21 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_lxHAmpDTQSNJjiSh
+    [sExpImp] => impo
+    [sOrigen] => Q0FMTEFP
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TUFSWQ==
+    [sNumViaje] => MjYwM1c=
+    [sSalida] => 04/10/2017
+    [sCierredoc] => 28/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => OA==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 18:55:21 - REGISTRO [2] : Se crea objeto itinerario
+08-09-2017 18:55:21 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_lxHAmpDTQSNJjiSh
+    [expimp] => imp
+    [origen] => CALLAO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => MARY 2603W
+    [numviaje] => 2603W
+    [salida] => 04-10-2017
+    [cierredoc] => 28-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 8
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 18:55:21 - REGISTRO [2] : Operacion INSERT
+08-09-2017 18:55:21 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_YQUyh2BsU5hPi8UA
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_uLN8PpBP7GduQNnD
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_lxHAmpDTQSNJjiSh
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+08-09-2017 18:55:21 - FIN setNuevoItinerario

@@ -1,0 +1,55 @@
+20-02-2018 10:18:49 - INI setNuevoItinerario
+20-02-2018 10:18:49 - NUM REGISTROS : 1
+20-02-2018 10:18:49 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_RitBTfKhA3YiP6NN
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSA1MTEg
+    [sNumViaje] => Vi4wMzVFLWRlbW8=
+    [sSalida] => 16/02/2018
+    [sCierredoc] => 11/02/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => Yeni
+    [nMes] => 2
+)
+
+20-02-2018 10:18:49 - REGISTRO [0] : Se crea objeto itinerario
+20-02-2018 10:18:49 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_RitBTfKhA3YiP6NN
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 511  V.035E-demo
+    [numviaje] => V.035E-demo
+    [salida] => 16-02-2018
+    [cierredoc] => 11-02-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 02
+)
+
+20-02-2018 10:18:49 - REGISTRO [0] : Operacion INSERT
+20-02-2018 10:18:49 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_RitBTfKhA3YiP6NN
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+20-02-2018 10:18:49 - FIN setNuevoItinerario

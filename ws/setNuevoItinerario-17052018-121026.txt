@@ -1,0 +1,151 @@
+17-05-2018 12:10:26 - INI setNuevoItinerario
+17-05-2018 12:10:26 - NUM REGISTROS : 3
+17-05-2018 12:10:26 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_Jq31NeTgF6guq0i3
+    [sExpImp] => impo
+    [sOrigen] => QVNVTkNJT04=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => RUpFTVBMTyA1MTE=
+    [sNumViaje] => Vi4wMEU=
+    [sSalida] => 01/01/2018
+    [sCierredoc] => 18/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => YENI
+    [nMes] => 5
+)
+
+17-05-2018 12:10:26 - REGISTRO [0] : Se crea objeto itinerario
+17-05-2018 12:10:26 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_Jq31NeTgF6guq0i3
+    [expimp] => imp
+    [origen] => ASUNCION
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => EJEMPLO 511 V.00E
+    [numviaje] => V.00E
+    [salida] => 01-01-2018
+    [cierredoc] => 18-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 05
+)
+
+17-05-2018 12:10:26 - REGISTRO [0] : Operacion DELETE
+17-05-2018 12:10:26 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_i0uYbkRfyoShT6El
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => RUpFTVBMTyA1MTE=
+    [sNumViaje] => Vi4wMEU=
+    [sSalida] => 15/05/2018
+    [sCierredoc] => 25/05/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTU=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => YENI
+    [nMes] => 5
+)
+
+17-05-2018 12:10:26 - REGISTRO [1] : Se crea objeto itinerario
+17-05-2018 12:10:26 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_i0uYbkRfyoShT6El
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => EJEMPLO 511 V.00E
+    [numviaje] => V.00E
+    [salida] => 15-05-2018
+    [cierredoc] => 25-05-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 15
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 05
+)
+
+17-05-2018 12:10:26 - REGISTRO [1] : Operacion DELETE
+17-05-2018 12:10:26 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_1CECunzHRDH0cBhh
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => RUpFTVBMTyA1MDAwMDA=
+    [sNumViaje] => Vi4wMEU=
+    [sSalida] => 15/05/2018
+    [sCierredoc] => 25/05/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => YENI
+    [nMes] => 5
+)
+
+17-05-2018 12:10:26 - REGISTRO [2] : Se crea objeto itinerario
+17-05-2018 12:10:26 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_1CECunzHRDH0cBhh
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => EJEMPLO 500000 V.00E
+    [numviaje] => V.00E
+    [salida] => 15-05-2018
+    [cierredoc] => 25-05-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 05
+)
+
+17-05-2018 12:10:26 - REGISTRO [2] : Operacion DELETE
+17-05-2018 12:10:26 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_Jq31NeTgF6guq0i3
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_i0uYbkRfyoShT6El
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_1CECunzHRDH0cBhh
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+17-05-2018 12:10:26 - FIN setNuevoItinerario

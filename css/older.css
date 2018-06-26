@@ -1,0 +1,33 @@
+/* Hoja de estilos para navegadores antiguos */
+
+#tabs {
+	width: 720px !important;
+	margin: auto !important;
+	position: absolute;
+	top: 440px;
+	padding-left: 150px;
+}
+
+#tabs a figcaption {
+	background: rgb(31,132,129) !important;
+	filter: alpha(opacity=60);
+}
+
+#sucursales {
+	margin-top: 180px;
+}
+
+#servicios .slide article {
+	background: rgb(2,2,2) !important;
+	filter: alpha(opacity=70);
+}
+
+#nosotros article {
+	background-color: #fff !important;
+	overflow: hidden;
+	filter: alpha(opacity=70);
+}
+
+#contacto article {
+	display: block;
+}

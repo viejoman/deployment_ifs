@@ -1,0 +1,1159 @@
+06-10-2017 12:05:09 - INI setNuevoItinerario
+06-10-2017 12:05:09 - NUM REGISTROS : 24
+06-10-2017 12:05:09 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_9VvIdn2DtG5ZH5ad
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUA==
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VmVybW9udCBUcmFkZXI=
+    [sNumViaje] => MDIxVw==
+    [sSalida] => 14/10/2017
+    [sCierredoc] => 09/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [0] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_9VvIdn2DtG5ZH5ad
+    [expimp] => imp
+    [origen] => ANTWERP
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => Vermont Trader 021W
+    [numviaje] => 021W
+    [salida] => 14-10-2017
+    [cierredoc] => 09-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [0] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_eVydgbMMYlvndND3
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUA==
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => UyBTQU5USUFHTw==
+    [sNumViaje] => MDA3Vw==
+    [sSalida] => 21/10/2017
+    [sCierredoc] => 16/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [1] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_eVydgbMMYlvndND3
+    [expimp] => imp
+    [origen] => ANTWERP
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => S SANTIAGO 007W
+    [numviaje] => 007W
+    [salida] => 21-10-2017
+    [cierredoc] => 16-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [1] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_bzqmwDa0mpj3MVYq
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUA==
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => VkVDQ0hJTyBCUklER0U=
+    [sNumViaje] => MTAxVw==
+    [sSalida] => 28/10/2017
+    [sCierredoc] => 23/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [2] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_bzqmwDa0mpj3MVYq
+    [expimp] => imp
+    [origen] => ANTWERP
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => VECCHIO BRIDGE 101W
+    [numviaje] => 101W
+    [salida] => 28-10-2017
+    [cierredoc] => 23-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [2] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_HPlqCzcfnZKkgfkT
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUA==
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => UyBTQU5USUFHTw==
+    [sNumViaje] => MDA3Vw==
+    [sSalida] => 21/10/2017
+    [sCierredoc] => 16/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [3] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_HPlqCzcfnZKkgfkT
+    [expimp] => imp
+    [origen] => ANTWERP
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => S SANTIAGO 007W
+    [numviaje] => 007W
+    [salida] => 21-10-2017
+    [cierredoc] => 16-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [3] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_vCvUirGIJXsmbQRQ
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0hBQ0FCVUNP
+    [sNumViaje] => MTczOA==
+    [sSalida] => 21/10/2017
+    [sCierredoc] => 10/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [4] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_vCvUirGIJXsmbQRQ
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CHACABUCO 1738
+    [numviaje] => 1738
+    [salida] => 21-10-2017
+    [cierredoc] => 10-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [4] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [5] : ITINERARIO => Array
+(
+    [sUID] => itid_nfUdD6j5whvxBf7r
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => RVIgQkVSTElO
+    [sNumViaje] => MTczOQ==
+    [sSalida] => 28/10/2017
+    [sCierredoc] => 18/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [5] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [5] : DATA => Array
+(
+    [itid] => itid_nfUdD6j5whvxBf7r
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => ER BERLIN 1739
+    [numviaje] => 1739
+    [salida] => 28-10-2017
+    [cierredoc] => 18-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [5] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [6] : ITINERARIO => Array
+(
+    [sUID] => itid_uJOWr8LESRkQI9Bt
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => RS5SLiBTRU9VTA==
+    [sNumViaje] => MTc0MA==
+    [sSalida] => 04/11/2017
+    [sCierredoc] => 25/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [6] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [6] : DATA => Array
+(
+    [itid] => itid_uJOWr8LESRkQI9Bt
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => E.R. SEOUL 1740
+    [numviaje] => 1740
+    [salida] => 04-11-2017
+    [cierredoc] => 25-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [6] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [7] : ITINERARIO => Array
+(
+    [sUID] => itid_QnP6wx8qOdIKmxvs
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => QUxMRUdPUklB
+    [sNumViaje] => MTc0MQ==
+    [sSalida] => 11/11/2017
+    [sCierredoc] => 01/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [7] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [7] : DATA => Array
+(
+    [itid] => itid_QnP6wx8qOdIKmxvs
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => ALLEGORIA 1741
+    [numviaje] => 1741
+    [salida] => 11-11-2017
+    [cierredoc] => 01-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [7] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [8] : ITINERARIO => Array
+(
+    [sUID] => itid_LmaI2O6nJkrh1rGQ
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => TVNDIExVRE9WSUNB
+    [sNumViaje] => MTc0Mg==
+    [sSalida] => 18/11/2017
+    [sCierredoc] => 08/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [8] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [8] : DATA => Array
+(
+    [itid] => itid_LmaI2O6nJkrh1rGQ
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => MSC LUDOVICA 1742
+    [numviaje] => 1742
+    [salida] => 18-11-2017
+    [cierredoc] => 08-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [8] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [9] : ITINERARIO => Array
+(
+    [sUID] => itid_bqyZtxoDbATw1Dcl
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => Q0hBQ0FCVUNP
+    [sNumViaje] => MTczOA==
+    [sSalida] => 21/10/2017
+    [sCierredoc] => 10/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [9] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [9] : DATA => Array
+(
+    [itid] => itid_bqyZtxoDbATw1Dcl
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => CHACABUCO 1738
+    [numviaje] => 1738
+    [salida] => 21-10-2017
+    [cierredoc] => 10-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [9] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [10] : ITINERARIO => Array
+(
+    [sUID] => itid_X0OGlFhGk2kaSYvR
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => RVIgQkVSTElO
+    [sNumViaje] => MTczOQ==
+    [sSalida] => 28/10/2017
+    [sCierredoc] => 18/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [10] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [10] : DATA => Array
+(
+    [itid] => itid_X0OGlFhGk2kaSYvR
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => ER BERLIN 1739
+    [numviaje] => 1739
+    [salida] => 28-10-2017
+    [cierredoc] => 18-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [10] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [11] : ITINERARIO => Array
+(
+    [sUID] => itid_u1gX4wBTXWqRKDpn
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => RS5SLiBTRU9VTA==
+    [sNumViaje] => MTc0MA==
+    [sSalida] => 04/11/2017
+    [sCierredoc] => 25/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [11] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [11] : DATA => Array
+(
+    [itid] => itid_u1gX4wBTXWqRKDpn
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => E.R. SEOUL 1740
+    [numviaje] => 1740
+    [salida] => 04-11-2017
+    [cierredoc] => 25-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [11] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [12] : ITINERARIO => Array
+(
+    [sUID] => itid_d7piXAe90Ylqmf9A
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => QUxMRUdPUklB
+    [sNumViaje] => MTc0MQ==
+    [sSalida] => 11/11/2017
+    [sCierredoc] => 01/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [12] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [12] : DATA => Array
+(
+    [itid] => itid_d7piXAe90Ylqmf9A
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => ALLEGORIA 1741
+    [numviaje] => 1741
+    [salida] => 11-11-2017
+    [cierredoc] => 01-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [12] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [13] : ITINERARIO => Array
+(
+    [sUID] => itid_ZMG8uWMvH4PWsCaG
+    [sExpImp] => impo
+    [sOrigen] => QlVFTk9TIEFJUkVT
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => TVNDIExVRE9WSUNB
+    [sNumViaje] => MTc0Mg==
+    [sSalida] => 18/11/2017
+    [sCierredoc] => 08/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MzA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [13] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [13] : DATA => Array
+(
+    [itid] => itid_ZMG8uWMvH4PWsCaG
+    [expimp] => imp
+    [origen] => BUENOS AIRES
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => MSC LUDOVICA 1742
+    [numviaje] => 1742
+    [salida] => 18-11-2017
+    [cierredoc] => 08-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 30
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [13] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [14] : ITINERARIO => Array
+(
+    [sUID] => itid_vHd4zetnyuAfNEQH
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q09OVEkgREFSV0lO
+    [sNumViaje] => MTdO
+    [sSalida] => 23/10/2017
+    [sCierredoc] => 10/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [14] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [14] : DATA => Array
+(
+    [itid] => itid_vHd4zetnyuAfNEQH
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CONTI DARWIN 17N
+    [numviaje] => 17N
+    [salida] => 23-10-2017
+    [cierredoc] => 10-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [14] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [15] : ITINERARIO => Array
+(
+    [sUID] => itid_VJM8sZkIfVkbYvcT
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q2hhY2FidWNv
+    [sNumViaje] => MTczOE4=
+    [sSalida] => 30/10/2017
+    [sCierredoc] => 19/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [15] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [15] : DATA => Array
+(
+    [itid] => itid_VJM8sZkIfVkbYvcT
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => Chacabuco 1738N
+    [numviaje] => 1738N
+    [salida] => 30-10-2017
+    [cierredoc] => 19-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [15] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [16] : ITINERARIO => Array
+(
+    [sUID] => itid_hAMBfVakFkCD1Aau
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => RS5SLiBCRVJMSU4=
+    [sNumViaje] => MTczOU4=
+    [sSalida] => 06/11/2017
+    [sCierredoc] => 26/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [16] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [16] : DATA => Array
+(
+    [itid] => itid_hAMBfVakFkCD1Aau
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => E.R. BERLIN 1739N
+    [numviaje] => 1739N
+    [salida] => 06-11-2017
+    [cierredoc] => 26-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [16] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [17] : ITINERARIO => Array
+(
+    [sUID] => itid_PzilJfpVWzhOSSRE
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => RS5SLiBTRU9VTA==
+    [sNumViaje] => MTc0ME4=
+    [sSalida] => 13/11/2017
+    [sCierredoc] => 02/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [17] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [17] : DATA => Array
+(
+    [itid] => itid_PzilJfpVWzhOSSRE
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => E.R. SEOUL 1740N
+    [numviaje] => 1740N
+    [salida] => 13-11-2017
+    [cierredoc] => 02-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [17] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [18] : ITINERARIO => Array
+(
+    [sUID] => itid_1hKHGqxRfvtVdRl9
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => Q09OVEkgREFSV0lO
+    [sNumViaje] => MTdO
+    [sSalida] => 23/10/2017
+    [sCierredoc] => 10/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjE=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [18] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [18] : DATA => Array
+(
+    [itid] => itid_1hKHGqxRfvtVdRl9
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => CONTI DARWIN 17N
+    [numviaje] => 17N
+    [salida] => 23-10-2017
+    [cierredoc] => 10-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 21
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [18] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [19] : ITINERARIO => Array
+(
+    [sUID] => itid_pDppbefxn9TCuL0Z
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => Q2hhY2FidWNv
+    [sNumViaje] => MTczOE4=
+    [sSalida] => 30/10/2017
+    [sCierredoc] => 19/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjE=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [19] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [19] : DATA => Array
+(
+    [itid] => itid_pDppbefxn9TCuL0Z
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => Chacabuco 1738N
+    [numviaje] => 1738N
+    [salida] => 30-10-2017
+    [cierredoc] => 19-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 21
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [19] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [20] : ITINERARIO => Array
+(
+    [sUID] => itid_XpLrOYSy0Chfocks
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => RS5SLiBCRVJMSU4=
+    [sNumViaje] => MTczOU4=
+    [sSalida] => 06/11/2017
+    [sCierredoc] => 26/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjE=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [20] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [20] : DATA => Array
+(
+    [itid] => itid_XpLrOYSy0Chfocks
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => E.R. BERLIN 1739N
+    [numviaje] => 1739N
+    [salida] => 06-11-2017
+    [cierredoc] => 26-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 21
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [20] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [21] : ITINERARIO => Array
+(
+    [sUID] => itid_15IKEflVR7borXZs
+    [sExpImp] => impo
+    [sOrigen] => U0FOVE9T
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => RS5SLiBTRU9VTA==
+    [sNumViaje] => MTc0ME4=
+    [sSalida] => 13/11/2017
+    [sCierredoc] => 02/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjE=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [21] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [21] : DATA => Array
+(
+    [itid] => itid_15IKEflVR7borXZs
+    [expimp] => imp
+    [origen] => SANTOS
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => E.R. SEOUL 1740N
+    [numviaje] => 1740N
+    [salida] => 13-11-2017
+    [cierredoc] => 02-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 21
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [21] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [22] : ITINERARIO => Array
+(
+    [sUID] => itid_TidMR8Scdh2YrMW0
+    [sExpImp] => impo
+    [sOrigen] => Q0FSVEFHRU5B
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => TU9OVEUgVkVSREU=
+    [sNumViaje] => MDc1Tg==
+    [sSalida] => 19/10/2017
+    [sCierredoc] => 11/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => Ng==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [22] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [22] : DATA => Array
+(
+    [itid] => itid_TidMR8Scdh2YrMW0
+    [expimp] => imp
+    [origen] => CARTAGENA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => MONTE VERDE 075N
+    [numviaje] => 075N
+    [salida] => 19-10-2017
+    [cierredoc] => 11-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 6
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [22] : Operacion INSERT
+06-10-2017 12:05:09 - REGISTRO [23] : ITINERARIO => Array
+(
+    [sUID] => itid_xvsTG5uJaJpmzfhP
+    [sExpImp] => impo
+    [sOrigen] => Q0FSVEFHRU5B
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => TU9MIFBBUkFNT1VOVA==
+    [sNumViaje] => MDgwTg==
+    [sSalida] => 26/10/2017
+    [sCierredoc] => 19/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => Ng==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [23] : Se crea objeto itinerario
+06-10-2017 12:05:09 - REGISTRO [23] : DATA => Array
+(
+    [itid] => itid_xvsTG5uJaJpmzfhP
+    [expimp] => imp
+    [origen] => CARTAGENA
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => MOL PARAMOUNT 080N
+    [numviaje] => 080N
+    [salida] => 26-10-2017
+    [cierredoc] => 19-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 6
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+06-10-2017 12:05:09 - REGISTRO [23] : Operacion INSERT
+06-10-2017 12:05:09 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_9VvIdn2DtG5ZH5ad
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_eVydgbMMYlvndND3
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_bzqmwDa0mpj3MVYq
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_HPlqCzcfnZKkgfkT
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_vCvUirGIJXsmbQRQ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [5] => Array
+        (
+            [sUID] => itid_nfUdD6j5whvxBf7r
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [6] => Array
+        (
+            [sUID] => itid_uJOWr8LESRkQI9Bt
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [7] => Array
+        (
+            [sUID] => itid_QnP6wx8qOdIKmxvs
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [8] => Array
+        (
+            [sUID] => itid_LmaI2O6nJkrh1rGQ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [9] => Array
+        (
+            [sUID] => itid_bqyZtxoDbATw1Dcl
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [10] => Array
+        (
+            [sUID] => itid_X0OGlFhGk2kaSYvR
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [11] => Array
+        (
+            [sUID] => itid_u1gX4wBTXWqRKDpn
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [12] => Array
+        (
+            [sUID] => itid_d7piXAe90Ylqmf9A
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [13] => Array
+        (
+            [sUID] => itid_ZMG8uWMvH4PWsCaG
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [14] => Array
+        (
+            [sUID] => itid_vHd4zetnyuAfNEQH
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [15] => Array
+        (
+            [sUID] => itid_VJM8sZkIfVkbYvcT
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [16] => Array
+        (
+            [sUID] => itid_hAMBfVakFkCD1Aau
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [17] => Array
+        (
+            [sUID] => itid_PzilJfpVWzhOSSRE
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [18] => Array
+        (
+            [sUID] => itid_1hKHGqxRfvtVdRl9
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [19] => Array
+        (
+            [sUID] => itid_pDppbefxn9TCuL0Z
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [20] => Array
+        (
+            [sUID] => itid_XpLrOYSy0Chfocks
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [21] => Array
+        (
+            [sUID] => itid_15IKEflVR7borXZs
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [22] => Array
+        (
+            [sUID] => itid_TidMR8Scdh2YrMW0
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [23] => Array
+        (
+            [sUID] => itid_xvsTG5uJaJpmzfhP
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+06-10-2017 12:05:09 - FIN setNuevoItinerario

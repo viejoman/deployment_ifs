@@ -1,0 +1,9 @@
+[30-Mar-2018 01:31:18 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.banxico.org.mx:80/DgieWSWeb/DgieWS?WSDL' : failed to load external entity "http://www.banxico.org.mx:80/DgieWSWeb/DgieWS?WSDL"
+ in /home/ifsmexic/public_html/php/obtenerTipoCambio.php on line 129
+[30-Mar-2018 01:31:18 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.banxico.org.mx:80/DgieWSWeb/DgieWS?WSDL' : failed to load external entity "http://www.banxico.org.mx:80/DgieWSWeb/DgieWS?WSDL"
+ in /home/ifsmexic/public_html/php/obtenerTipoCambio.php:129
+Stack trace:
+#0 /home/ifsmexic/public_html/php/obtenerTipoCambio.php(129): SoapClient->SoapClient('http://www.banx...')
+#1 /home/ifsmexic/public_html/php/obtenerTipoCambio.php(13): obtenerTC_aux()
+#2 {main}
+  thrown in /home/ifsmexic/public_html/php/obtenerTipoCambio.php on line 129

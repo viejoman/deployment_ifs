@@ -1,0 +1,55 @@
+20-02-2018 10:34:04 - INI setNuevoItinerario
+20-02-2018 10:34:04 - NUM REGISTROS : 1
+20-02-2018 10:34:04 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_ERJ31OjIxfZVATkj
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q0FMSUJSQSAz
+    [sNumViaje] => VjA2
+    [sSalida] => 26/02/2018
+    [sCierredoc] => 21/02/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTg=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => Yeni
+    [nMes] => 2
+)
+
+20-02-2018 10:34:04 - REGISTRO [0] : Se crea objeto itinerario
+20-02-2018 10:34:04 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_ERJ31OjIxfZVATkj
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CALIBRA 3 V06
+    [numviaje] => V06
+    [salida] => 26-02-2018
+    [cierredoc] => 21-02-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 02
+)
+
+20-02-2018 10:34:04 - REGISTRO [0] : Operacion DELETE
+20-02-2018 10:34:04 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_ERJ31OjIxfZVATkj
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+20-02-2018 10:34:04 - FIN setNuevoItinerario

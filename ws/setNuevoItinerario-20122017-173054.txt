@@ -1,0 +1,1591 @@
+20-12-2017 17:30:53 - INI setNuevoItinerario
+20-12-2017 17:30:53 - NUM REGISTROS : 33
+20-12-2017 17:30:53 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_GF4Gm2K7oUTOgboP
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOIENIUklTVE9CQUwg
+    [sNumViaje] => Vi0yNzFQUEU=
+    [sSalida] => 20/12/2017
+    [sCierredoc] => 13/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [0] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_GF4Gm2K7oUTOgboP
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SAN CHRISTOBAL  V-271PPE
+    [numviaje] => V-271PPE
+    [salida] => 20-12-2017
+    [cierredoc] => 13-12-2017
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [0] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_6pNo08Q4cGOc1S28
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TExPWUQgRE9OIEdJT1ZBTk5JIA==
+    [sNumViaje] => Vi0yNzNQUEU=
+    [sSalida] => 27/12/2017
+    [sCierredoc] => 20/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [1] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_6pNo08Q4cGOc1S28
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => LLOYD DON GIOVANNI  V-273PPE
+    [numviaje] => V-273PPE
+    [salida] => 27-12-2017
+    [cierredoc] => 20-12-2017
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [1] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_WOlIhiCNLeOZBGmo
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBKQUNRVUVTIEpPU0VQSA==
+    [sNumViaje] => Vi0yNzVQUEU=
+    [sSalida] => 03/01/2018
+    [sCierredoc] => 27/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [2] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_WOlIhiCNLeOZBGmo
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM JACQUES JOSEPH V-275PPE
+    [numviaje] => V-275PPE
+    [salida] => 03-01-2018
+    [cierredoc] => 27-12-2017
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [2] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_hc6S00UwV7l0Ekh2
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBNSVNTT1VSSSA=
+    [sNumViaje] => Vi0yNzdQUEU=
+    [sSalida] => 10/01/2018
+    [sCierredoc] => 03/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [3] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_hc6S00UwV7l0Ekh2
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM MISSOURI  V-277PPE
+    [numviaje] => V-277PPE
+    [salida] => 10-01-2018
+    [cierredoc] => 03-01-2018
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [3] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_iJoIE63wzsC8G6Nw
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBNSVNTSVNTSVBQSQ==
+    [sNumViaje] => Vi0yNzlQUEU=
+    [sSalida] => 17/01/2018
+    [sCierredoc] => 10/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [4] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_iJoIE63wzsC8G6Nw
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM MISSISSIPPI V-279PPE
+    [numviaje] => V-279PPE
+    [salida] => 17-01-2018
+    [cierredoc] => 10-01-2018
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [4] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [5] : ITINERARIO => Array
+(
+    [sUID] => itid_0sfynOBzwaArqjgN
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q09TQ08gWUFOVElBTg==
+    [sNumViaje] => Vi0yODFQUEU=
+    [sSalida] => 24/01/2018
+    [sCierredoc] => 17/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [5] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [5] : DATA => Array
+(
+    [itid] => itid_0sfynOBzwaArqjgN
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => COSCO YANTIAN V-281PPE
+    [numviaje] => V-281PPE
+    [salida] => 24-01-2018
+    [cierredoc] => 17-01-2018
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [5] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [6] : ITINERARIO => Array
+(
+    [sUID] => itid_LYqdmZb01lqhHCp1
+    [sExpImp] => impo
+    [sOrigen] => S0VFTFVORw==
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBDT0xVTUJJQSA=
+    [sNumViaje] => Vi0wUFAwMUUxTUE=
+    [sSalida] => 31/01/2018
+    [sCierredoc] => 24/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MTY=
+    [sConexiones] => S0VFTFVORyAvIEtBT1NISVVORw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [6] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [6] : DATA => Array
+(
+    [itid] => itid_LYqdmZb01lqhHCp1
+    [expimp] => imp
+    [origen] => KEELUNG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM COLUMBIA  V-0PP01E1MA
+    [numviaje] => V-0PP01E1MA
+    [salida] => 31-01-2018
+    [cierredoc] => 24-01-2018
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 16
+    [conexiones] => KEELUNG / KAOSHIUNG
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [6] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [7] : ITINERARIO => Array
+(
+    [sUID] => itid_cnPRHMi7D4TgZo0t
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q1NBViBUUkFOQ1VSQSA=
+    [sNumViaje] => Vi43NDhF
+    [sSalida] => 01/12/2017
+    [sCierredoc] => 28/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [7] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [7] : DATA => Array
+(
+    [itid] => itid_cnPRHMi7D4TgZo0t
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CSAV TRANCURA  V.748E
+    [numviaje] => V.748E
+    [salida] => 01-12-2017
+    [cierredoc] => 28-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [7] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [8] : ITINERARIO => Array
+(
+    [sUID] => itid_PR4DDW1lFGBnIQZq
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgVEVSRVNBIA==
+    [sNumViaje] => Vi43NDhF
+    [sSalida] => 05/12/2017
+    [sCierredoc] => 30/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [8] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [8] : DATA => Array
+(
+    [itid] => itid_PR4DDW1lFGBnIQZq
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA TERESA  V.748E
+    [numviaje] => V.748E
+    [salida] => 05-12-2017
+    [cierredoc] => 30-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [8] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [9] : ITINERARIO => Array
+(
+    [sUID] => itid_ZNR5No47o7Shuqlq
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TU9MIFBBUkFESVNFIA==
+    [sNumViaje] => Vi4yNzA3RQ==
+    [sSalida] => 07/12/2017
+    [sCierredoc] => 04/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [9] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [9] : DATA => Array
+(
+    [itid] => itid_ZNR5No47o7Shuqlq
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => MOL PARADISE  V.2707E
+    [numviaje] => V.2707E
+    [salida] => 07-12-2017
+    [cierredoc] => 04-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [9] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [10] : ITINERARIO => Array
+(
+    [sUID] => itid_KBppPUZeI95oXHdb
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q0lTTkVTIA==
+    [sNumViaje] => Vi43NDlF
+    [sSalida] => 08/12/2017
+    [sCierredoc] => 05/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [10] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [10] : DATA => Array
+(
+    [itid] => itid_KBppPUZeI95oXHdb
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CISNES  V.749E
+    [numviaje] => V.749E
+    [salida] => 08-12-2017
+    [cierredoc] => 05-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [10] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [11] : ITINERARIO => Array
+(
+    [sUID] => itid_61vcuNZViW2249Jp
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgQ0FUQVJJTkEg
+    [sNumViaje] => Vi43NDlF
+    [sSalida] => 12/12/2017
+    [sCierredoc] => 07/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [11] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [11] : DATA => Array
+(
+    [itid] => itid_61vcuNZViW2249Jp
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA CATARINA  V.749E
+    [numviaje] => V.749E
+    [salida] => 12-12-2017
+    [cierredoc] => 07-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [11] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [12] : ITINERARIO => Array
+(
+    [sUID] => itid_54Nb0ZFYcIFNvz1t
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => QU5UT04gU0NIVUxURSA=
+    [sNumViaje] => Vi4yNzA4RQ==
+    [sSalida] => 14/12/2017
+    [sCierredoc] => 11/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [12] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [12] : DATA => Array
+(
+    [itid] => itid_54Nb0ZFYcIFNvz1t
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => ANTON SCHULTE  V.2708E
+    [numviaje] => V.2708E
+    [salida] => 14-12-2017
+    [cierredoc] => 11-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [12] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [13] : ITINERARIO => Array
+(
+    [sUID] => itid_04AA7IwwHF3WnNwr
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q09SQ09WQURPIA==
+    [sNumViaje] => Vi43NTBF
+    [sSalida] => 15/12/2017
+    [sCierredoc] => 12/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [13] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [13] : DATA => Array
+(
+    [itid] => itid_04AA7IwwHF3WnNwr
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CORCOVADO  V.750E
+    [numviaje] => V.750E
+    [salida] => 15-12-2017
+    [cierredoc] => 12-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [13] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [14] : ITINERARIO => Array
+(
+    [sUID] => itid_A8pMHPqYTCQoklVR
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgUklUQSA=
+    [sNumViaje] => Vi43NTBF
+    [sSalida] => 19/12/2017
+    [sCierredoc] => 14/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [14] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [14] : DATA => Array
+(
+    [itid] => itid_A8pMHPqYTCQoklVR
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA RITA  V.750E
+    [numviaje] => V.750E
+    [salida] => 19-12-2017
+    [cierredoc] => 14-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [14] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [15] : ITINERARIO => Array
+(
+    [sUID] => itid_stvuefMgjwNG7c8a
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExPREVTVEFSIA==
+    [sNumViaje] => Vi4yNzA5RQ==
+    [sSalida] => 21/12/2017
+    [sCierredoc] => 18/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [15] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [15] : DATA => Array
+(
+    [itid] => itid_stvuefMgjwNG7c8a
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LODESTAR  V.2709E
+    [numviaje] => V.2709E
+    [salida] => 21-12-2017
+    [cierredoc] => 18-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [15] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [16] : ITINERARIO => Array
+(
+    [sUID] => itid_IK2hl3fn0ViyUspZ
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q0FVVElO
+    [sNumViaje] => IFYuNzUxRQ==
+    [sSalida] => 22/12/2017
+    [sCierredoc] => 19/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [16] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [16] : DATA => Array
+(
+    [itid] => itid_IK2hl3fn0ViyUspZ
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CAUTIN  V.751E
+    [numviaje] =>  V.751E
+    [salida] => 22-12-2017
+    [cierredoc] => 19-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [16] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [17] : ITINERARIO => Array
+(
+    [sUID] => itid_EXZABOajvFLIOgRU
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgQkFSQkFSQSA=
+    [sNumViaje] => Vi43NTFF
+    [sSalida] => 26/12/2017
+    [sCierredoc] => 21/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [17] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [17] : DATA => Array
+(
+    [itid] => itid_EXZABOajvFLIOgRU
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA BARBARA  V.751E
+    [numviaje] => V.751E
+    [salida] => 26-12-2017
+    [cierredoc] => 21-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [17] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [18] : ITINERARIO => Array
+(
+    [sUID] => itid_ZBudTuhwVaSnOhOM
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExZTlgg
+    [sNumViaje] => Vi4yNzEwRQ==
+    [sSalida] => 28/12/2017
+    [sCierredoc] => 25/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [18] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [18] : DATA => Array
+(
+    [itid] => itid_ZBudTuhwVaSnOhOM
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LYNX  V.2710E
+    [numviaje] => V.2710E
+    [salida] => 28-12-2017
+    [cierredoc] => 25-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [18] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [19] : ITINERARIO => Array
+(
+    [sUID] => itid_niKK5ghEhaPc7AKt
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q0FVUVVFTkVTIA==
+    [sNumViaje] => Vi43NTJF
+    [sSalida] => 29/12/2017
+    [sCierredoc] => 26/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [19] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [19] : DATA => Array
+(
+    [itid] => itid_niKK5ghEhaPc7AKt
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CAUQUENES  V.752E
+    [numviaje] => V.752E
+    [salida] => 29-12-2017
+    [cierredoc] => 26-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [19] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [20] : ITINERARIO => Array
+(
+    [sUID] => itid_Ysf6U7NFpd7OxHId
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgUk9TQSA=
+    [sNumViaje] => Vi43NTJF
+    [sSalida] => 02/01/2018
+    [sCierredoc] => 28/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [20] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [20] : DATA => Array
+(
+    [itid] => itid_Ysf6U7NFpd7OxHId
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA ROSA  V.752E
+    [numviaje] => V.752E
+    [salida] => 02-01-2018
+    [cierredoc] => 28-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [20] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [21] : ITINERARIO => Array
+(
+    [sUID] => itid_AnQxgxoCDfXYVxal
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBUSUdSSVMg
+    [sNumViaje] => Vi44MDFF
+    [sSalida] => 05/01/2018
+    [sCierredoc] => 01/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [21] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [21] : DATA => Array
+(
+    [itid] => itid_AnQxgxoCDfXYVxal
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM TIGRIS  V.801E
+    [numviaje] => V.801E
+    [salida] => 05-01-2018
+    [cierredoc] => 01-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [21] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [22] : ITINERARIO => Array
+(
+    [sUID] => itid_a21pEvDOFcbW2fnm
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgSU5FUw==
+    [sNumViaje] => IFYuODAxRQ==
+    [sSalida] => 09/01/2018
+    [sCierredoc] => 04/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [22] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [22] : DATA => Array
+(
+    [itid] => itid_a21pEvDOFcbW2fnm
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA INES  V.801E
+    [numviaje] =>  V.801E
+    [salida] => 09-01-2018
+    [cierredoc] => 04-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [22] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [23] : ITINERARIO => Array
+(
+    [sUID] => itid_hPklxuY9PzMQuTwY
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TllLIExFTw==
+    [sNumViaje] => IFYuMjgwMUU=
+    [sSalida] => 11/01/2018
+    [sCierredoc] => 08/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [23] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [23] : DATA => Array
+(
+    [itid] => itid_hPklxuY9PzMQuTwY
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => NYK LEO  V.2801E
+    [numviaje] =>  V.2801E
+    [salida] => 11-01-2018
+    [cierredoc] => 08-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [23] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [24] : ITINERARIO => Array
+(
+    [sUID] => itid_O1y6I9bsXvIUll0t
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q09QSUFQTw==
+    [sNumViaje] => IFYuODAyRQ==
+    [sSalida] => 12/01/2018
+    [sCierredoc] => 09/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [24] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [24] : DATA => Array
+(
+    [itid] => itid_O1y6I9bsXvIUll0t
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => COPIAPO  V.802E
+    [numviaje] =>  V.802E
+    [salida] => 12-01-2018
+    [cierredoc] => 09-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [24] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [25] : ITINERARIO => Array
+(
+    [sUID] => itid_ZjKJgzTNLqqZR1H2
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgQ0xBUkE=
+    [sNumViaje] => IFYuODAyRQ==
+    [sSalida] => 16/01/2018
+    [sCierredoc] => 11/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [25] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [25] : DATA => Array
+(
+    [itid] => itid_ZjKJgzTNLqqZR1H2
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA CLARA  V.802E
+    [numviaje] =>  V.802E
+    [salida] => 16-01-2018
+    [cierredoc] => 11-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [25] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [26] : ITINERARIO => Array
+(
+    [sUID] => itid_OcetInfGgDLld3Wb
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TU9MIFBBQ0Ug
+    [sNumViaje] => Vi4yODAyRQ==
+    [sSalida] => 18/01/2018
+    [sCierredoc] => 15/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [26] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [26] : DATA => Array
+(
+    [itid] => itid_OcetInfGgDLld3Wb
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => MOL PACE  V.2802E
+    [numviaje] => V.2802E
+    [salida] => 18-01-2018
+    [cierredoc] => 15-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [26] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [27] : ITINERARIO => Array
+(
+    [sUID] => itid_plrLLgy6iVIYpYiH
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBHQU5HRVMg
+    [sNumViaje] => Vi44MDNF
+    [sSalida] => 19/01/2018
+    [sCierredoc] => 16/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [27] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [27] : DATA => Array
+(
+    [itid] => itid_plrLLgy6iVIYpYiH
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM GANGES  V.803E
+    [numviaje] => V.803E
+    [salida] => 19-01-2018
+    [cierredoc] => 16-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [27] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [28] : ITINERARIO => Array
+(
+    [sUID] => itid_KhdjRjhOTSDEm5GW
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => U0FOVEEgSVNBQkVMIA==
+    [sNumViaje] => Vi44MDNF
+    [sSalida] => 23/01/2018
+    [sCierredoc] => 18/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [28] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [28] : DATA => Array
+(
+    [itid] => itid_KhdjRjhOTSDEm5GW
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => SANTA ISABEL  V.803E
+    [numviaje] => V.803E
+    [salida] => 23-01-2018
+    [cierredoc] => 18-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [28] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [29] : ITINERARIO => Array
+(
+    [sUID] => itid_TcTVSVnsyzcd7sYo
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TUFSWSA=
+    [sNumViaje] => Vi4yODAzRQ==
+    [sSalida] => 25/01/2018
+    [sCierredoc] => 22/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [29] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [29] : DATA => Array
+(
+    [itid] => itid_TcTVSVnsyzcd7sYo
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => MARY  V.2803E
+    [numviaje] => V.2803E
+    [salida] => 25-01-2018
+    [cierredoc] => 22-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [29] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [30] : ITINERARIO => Array
+(
+    [sUID] => itid_GEfcHEeloIbYaty8
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBPSElP
+    [sNumViaje] => IFYuODA0RQ==
+    [sSalida] => 26/01/2018
+    [sCierredoc] => 23/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [30] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [30] : DATA => Array
+(
+    [itid] => itid_GEfcHEeloIbYaty8
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM OHIO  V.804E
+    [numviaje] =>  V.804E
+    [salida] => 26-01-2018
+    [cierredoc] => 23-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [30] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [31] : ITINERARIO => Array
+(
+    [sUID] => itid_u1LzYJlxyCglBLrZ
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => Q01BIENHTSBNRUtPTkc=
+    [sNumViaje] => IFYuODA0RQ==
+    [sSalida] => 30/01/2018
+    [sCierredoc] => 25/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [31] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [31] : DATA => Array
+(
+    [itid] => itid_u1LzYJlxyCglBLrZ
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => CMA CGM MEKONG  V.804E
+    [numviaje] =>  V.804E
+    [salida] => 30-01-2018
+    [cierredoc] => 25-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [31] : Operacion INSERT
+20-12-2017 17:30:53 - REGISTRO [32] : ITINERARIO => Array
+(
+    [sUID] => itid_m9gHHUQN1xFdajPj
+    [sExpImp] => impo
+    [sOrigen] => U0hBTkdIQUk=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => TU9MIFBSRU1JVU0g
+    [sNumViaje] => Vi4yODA0RQ==
+    [sSalida] => 01/02/2018
+    [sCierredoc] => 29/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [32] : Se crea objeto itinerario
+20-12-2017 17:30:53 - REGISTRO [32] : DATA => Array
+(
+    [itid] => itid_m9gHHUQN1xFdajPj
+    [expimp] => imp
+    [origen] => SHANGHAI
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => MOL PREMIUM  V.2804E
+    [numviaje] => V.2804E
+    [salida] => 01-02-2018
+    [cierredoc] => 29-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 17:30:53 - REGISTRO [32] : Operacion INSERT
+20-12-2017 17:30:53 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_GF4Gm2K7oUTOgboP
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_6pNo08Q4cGOc1S28
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_WOlIhiCNLeOZBGmo
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_hc6S00UwV7l0Ekh2
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_iJoIE63wzsC8G6Nw
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [5] => Array
+        (
+            [sUID] => itid_0sfynOBzwaArqjgN
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [6] => Array
+        (
+            [sUID] => itid_LYqdmZb01lqhHCp1
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [7] => Array
+        (
+            [sUID] => itid_cnPRHMi7D4TgZo0t
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [8] => Array
+        (
+            [sUID] => itid_PR4DDW1lFGBnIQZq
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [9] => Array
+        (
+            [sUID] => itid_ZNR5No47o7Shuqlq
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [10] => Array
+        (
+            [sUID] => itid_KBppPUZeI95oXHdb
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [11] => Array
+        (
+            [sUID] => itid_61vcuNZViW2249Jp
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [12] => Array
+        (
+            [sUID] => itid_54Nb0ZFYcIFNvz1t
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [13] => Array
+        (
+            [sUID] => itid_04AA7IwwHF3WnNwr
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [14] => Array
+        (
+            [sUID] => itid_A8pMHPqYTCQoklVR
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [15] => Array
+        (
+            [sUID] => itid_stvuefMgjwNG7c8a
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [16] => Array
+        (
+            [sUID] => itid_IK2hl3fn0ViyUspZ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [17] => Array
+        (
+            [sUID] => itid_EXZABOajvFLIOgRU
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [18] => Array
+        (
+            [sUID] => itid_ZBudTuhwVaSnOhOM
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [19] => Array
+        (
+            [sUID] => itid_niKK5ghEhaPc7AKt
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [20] => Array
+        (
+            [sUID] => itid_Ysf6U7NFpd7OxHId
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [21] => Array
+        (
+            [sUID] => itid_AnQxgxoCDfXYVxal
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [22] => Array
+        (
+            [sUID] => itid_a21pEvDOFcbW2fnm
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [23] => Array
+        (
+            [sUID] => itid_hPklxuY9PzMQuTwY
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [24] => Array
+        (
+            [sUID] => itid_O1y6I9bsXvIUll0t
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [25] => Array
+        (
+            [sUID] => itid_ZjKJgzTNLqqZR1H2
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [26] => Array
+        (
+            [sUID] => itid_OcetInfGgDLld3Wb
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [27] => Array
+        (
+            [sUID] => itid_plrLLgy6iVIYpYiH
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [28] => Array
+        (
+            [sUID] => itid_KhdjRjhOTSDEm5GW
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [29] => Array
+        (
+            [sUID] => itid_TcTVSVnsyzcd7sYo
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [30] => Array
+        (
+            [sUID] => itid_GEfcHEeloIbYaty8
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [31] => Array
+        (
+            [sUID] => itid_u1LzYJlxyCglBLrZ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [32] => Array
+        (
+            [sUID] => itid_m9gHHUQN1xFdajPj
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+20-12-2017 17:30:53 - FIN setNuevoItinerario

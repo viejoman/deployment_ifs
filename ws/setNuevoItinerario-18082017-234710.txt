@@ -1,0 +1,53 @@
+18-08-2017 23:47:10 - INI setNuevoItinerario
+18-08-2017 23:47:10 - NUM REGISTROS : 1
+18-08-2017 23:47:10 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_O7XSP1BhAWQrYSDt
+    [sExpImp] => expo
+    [sPuerto] => QnVlbmF2ZW50dXJh
+    [sBuque] => SU5TSUdOSUE=
+    [sNumViaje] => VjAwMDE=
+    [sSalida] => 28/08/2017
+    [sCierredoc] => 15/08/2017
+    [sCierredesp] => 18/08/2017
+    [sFrecuencia] => U2VtYW5hbA==
+    [sTransito] => MTggZMOtYXM=
+    [sConexiones] => RGlyZWN0bw==
+    [nCRUDAction] => 1
+    [sUsuario] => Yeni
+    [nMes] => 8
+)
+
+18-08-2017 23:47:10 - REGISTRO [0] : Se crea objeto itinerario
+18-08-2017 23:47:10 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_O7XSP1BhAWQrYSDt
+    [expimp] => exp
+    [origen] => 
+    [destino] => 
+    [puerto] => Buenaventura
+    [buque] => INSIGNIA V0001
+    [numviaje] => V0001
+    [salida] => 28-08-2017
+    [cierredoc] => 15-08-2017
+    [cierredesp] => 18-08-2017
+    [frecuencia] => Semanal
+    [transito] => 18 días
+    [conexiones] => Directo
+    [user] => Yeni
+    [mes] => 08
+)
+
+18-08-2017 23:47:10 - REGISTRO [0] : Operacion INSERT
+18-08-2017 23:47:10 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_O7XSP1BhAWQrYSDt
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+18-08-2017 23:47:10 - FIN setNuevoItinerario

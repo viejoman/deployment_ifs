@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p__",
+				"p__idticket"
+			],
+			[
+				"d",
+				"disabled"
+			],
+			[
+				"_x",
+				"_xtype"
+			],
+			[
+				"_u",
+				"_userModelo"
+			],
+			[
+				"id",
+				"idticket"
+			],
+			[
+				"_in",
+				"_idinhihidor_aux"
+			],
+			[
+				"_o",
+				"_oInhibidor"
+			],
+			[
+				"it",
+				"itemId"
+			],
+			[
+				"_i",
+				"_idinhihidor_aux"
+			],
+			[
+				"_",
+				"_formInhibidor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"xt",
+				"_xtye_aux"
+			],
+			[
+				"idca",
+				"idcategoriaserv"
+			],
+			[
+				"p_",
+				"p__id"
+			],
+			[
+				"butto",
+				"button_id"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"com",
+				"Comentario"
+			],
+			[
+				"s",
+				"store"
+			],
+			[
+				"_bu",
+				"_button_editar_aux"
+			],
+			[
+				"get",
+				"getView"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"a",
+				"amaterno"
+			],
+			[
+				"sa",
+				"saveUserModel"
+			],
+			[
+				"app",
+				"app-main"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "directorio.php",
+			"settings":
+			{
+				"buffer_size": 13774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/areyesv/app/deployment/workspace/ifsmexico"
+	],
+	"file_history":
+	[
+		"/home/areyesv/app/deployment/workspace/ifsmexico/acercade.php",
+		"/home/areyesv/app/deployment/workspace/ifsmexico/ifsmexico.sublime-project",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketForm.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/TicketModel.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/HistorialTicket.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/Application.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/Notificacion.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/historial/SeguimientoTicketsTemplate.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/Usuario.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/tickets/TicketController.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/Prioridad.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/util/Notificacion.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketSisForm.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketEnProceso.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/Ticket.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/TipoServicio.js",
+		"/home/areyesv/galvan/pegasus/hlp/backend/Prioridad.json",
+		"/home/areyesv/app/develop/stw/microservice/catalogos_old/src/main/java/corp/galvan/hlp/catalogos/domain/CategoriaServicio.java",
+		"/home/areyesv/app/develop/stw/microservice/catalogos_old/src/main/java/corp/galvan/hlp/catalogos/domain/SubCategoriaServicio.java",
+		"/home/areyesv/app/develop/stw/microservice/catalogos_old/src/main/java/corp/galvan/hlp/catalogos/controllers/SubCategoriaServicioController.java",
+		"/home/areyesv/app/develop/stw/microservice/catalogos_old/src/main/java/corp/galvan/hlp/catalogos/controllers/CategoriaServicioController.java",
+		"/home/areyesv/app/develop/stw/microservice/catalogos_old/src/main/java/corp/galvan/hlp/catalogos/domain/Menu.java",
+		"/home/areyesv/galvan/pegasus/hlp/app/controller/MenuPrincipal.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/controller/StaticData.js",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/Usuario.java",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/staticData/Base.js",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/Audit.java",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketEnProcesoGrid.js",
+		"/home/areyesv/app/develop/stw/microservice/deployment-docker/docker-compose.yml",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/util/Glyphs.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketCerradosGrid.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketCerrados.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/EvaluarTicketForm.js",
+		"/home/areyesv/Documentos/DESARROLLO_USUARIOS_GALVAN",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/util/Util.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/login/LoginController.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/ListTicketsModel.js",
+		"/home/areyesv/galvan/pegasus/hlp/app.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketDetalle.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketsGrid.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/SubCategoriaSrv.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/profile/UsuarioModel.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/store/UsuarioStore.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/InhibidorForm.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/Ticket-OLD.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketMain.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/top/HeaderController.js",
+		"/home/areyesv/galvan/pegasus/hlp/app.json",
+		"/home/areyesv/galvan/pegasus/hlp/app/util/CapsLockTooltip.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/util/CapsLockTooltip.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/staticData/BaseGrid.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/util/CapsLockTooltip.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/util/Glyphs.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/util/Util.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/main/MainModel.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/util/Util.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/Ticket.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/main/Main.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/menu/MenuOpciones.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/profile/Usuario.js",
+		"/home/areyesv/pgbackup/hlp_acciones",
+		"/home/areyesv/pgbackup/hlp_inhibidores",
+		"/home/areyesv/pgbackup/hlp_prioridades",
+		"/home/areyesv/pgbackup/hlp_subcategoriaservicios",
+		"/home/areyesv/pgbackup/hlp_tickets",
+		"/home/areyesv/pgbackup/hlp_tiposervicios",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/BASE_DE_DATOS/insert_catalogo_acciones_ticket",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/BASE_DE_DATOS/insert_catalogo_inhibidores.sql",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/BASE_DE_DATOS/insert_catalogo_servicios.sql",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/BASE_DE_DATOS/insert_subcatalogo_servicios.sql",
+		"/home/areyesv/Documentos/_GRP_GALVAN/PROYECTO STW/BASE_DE_DATOS/function_demo_getMenuByIdGrupo.sql",
+		"/home/areyesv/pgbackup/hlp_categoriaservicios",
+		"/home/areyesv/pgbackup/hlp_estados",
+		"/home/areyesv/pgbackup/hlp_grupos",
+		"/home/areyesv/pgbackup/hlp_historialtickets",
+		"/home/areyesv/pgbackup/vistas",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/Inhibidor.js",
+		"/home/areyesv/app/develop/stw/microservice/docker-compose.yml",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/top/Header.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/AgregarNotaForm.js",
+		"/home/areyesv/galvan/pegasus/hlp/bootstrap.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/sass/src/view/historial/SeguimientoTicketsTemplate.scss",
+		"/home/areyesv/galvan/pegasus/hlp/classic/sass/src/view/top/Header.scss",
+		"/home/areyesv/galvan/pegasus/hlp/classic/sass/src/view/main/Main.scss",
+		"/home/areyesv/galvan/pegasus/hlp/sass/view/historial/SeguimientoTicketsTemplate.scss",
+		"/home/areyesv/galvan/pegasus/hlp/sass/view/historial/UserProfileBase.scss",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/historial/HistorialTicketCerradosGrid.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/dashboard/DashboardController.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/classic/src/Application.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/classic/overrides/menu/Item.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/profile/Timeline.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/build/examples/admin-dashboard/modern/app.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/build/examples/admin-dashboard/classic/app.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/index.html",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/classic/src/view/profile/UserProfile.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/classic/src/view/dashboard/Dashboard.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/profile/UserProfileBase.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/dashboard/DashboardModel.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/proxy/Api.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/data/dashboard/Tasks.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/model/PersonalInfo.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/profile/Description.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/profile/Social.js",
+		"/opt/Sencha/extjs_sdks/ext-6.2.0/templates/admin-dashboard/app/view/profile/UserProfileModel.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/historial/HistorialTicketGrid.js",
+		"/home/areyesv/galvan/pegasus/hlp/index.html",
+		"/home/areyesv/galvan/pegasus/hlp/custom.css",
+		"/home/areyesv/galvan/pegasus/hlp/sass/etc/all.scss",
+		"/home/areyesv/galvan/pegasus/hlp/classic/sass/etc/aux/custom_grid.css",
+		"/home/areyesv/galvan/pegasus/build/production/hlp/classic/resources/hlp-all_1.css",
+		"/home/areyesv/galvan/pegasus/build/production/hlp/classic/resources/hlp-all_2.css",
+		"/home/areyesv/galvan/pegasus/hlp/sass/var/all.scss",
+		"/home/areyesv/Documentos/starrating_v1.0/starrating.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/store/EstatusTickets.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/store/HistorialTickets.js",
+		"/home/areyesv/galvan/pegasus/ext/packages/charts/src/draw/Matrix.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/historial/HistorialTicketGrid.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketCerrado.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/login/Login.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketAsignado.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/store/Tickets.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketEstatus.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/tickets/TicketEstatusController.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/controller/StaticData.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/view/staticData/StaticData.js",
+		"/home/areyesv/galvan/pegasus/hlp/classic/src/view/tickets/TicketsEnProceso.js",
+		"/home/areyesv/galvan/pegasus/hlp/app/model/MenuOpciones.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notificarTicket",
+			"callback",
+			"notificarTicket",
+			"st_usuarios_sis",
+			"registrarHistorial",
+			"eva",
+			"createAgregarNota",
+			"proxy",
+			"idsuc",
+			"btn-save-ticket",
+			"TIKECT",
+			"GET_",
+			"GET_NUEVOS_",
+			"18.232.197.35",
+			"alert",
+			"enproce",
+			"seguimiento-tickest",
+			"createDialog",
+			"InhibidorForm",
+			"btn-agregarnota-ticket",
+			"builds",
+			"54.204.128.122",
+			"idsucursal",
+			"idusu",
+			"demo.subcategoriaservicio",
+			"demo.categoriaservicio",
+			"demo.inhibidor",
+			"hlp_accion",
+			"demo.accion",
+			".tiposervicio",
+			"demo",
+			"postgres",
+			".ticket",
+			"demo",
+			"postgres",
+			".subcategoriaservicio",
+			"demo",
+			"postgres",
+			".prioridad",
+			"demo",
+			"postgres",
+			".inhibidor",
+			"demo",
+			"postgres",
+			".historialticket",
+			"demo",
+			"postgres",
+			"demo",
+			"postgres",
+			".estado",
+			"demo",
+			"postgres",
+			".categoriaservicio",
+			"demo",
+			"postgres",
+			".accion",
+			"demo",
+			"idgrupo",
+			"url",
+			"inhihi",
+			"registrarHistorial",
+			"_UserModel",
+			"registrarHistorial",
+			"responderTicket",
+			"getRecordsSelected",
+			"registrarHistorial",
+			"',\n",
+			"createAgregarNota",
+			"lig",
+			"$base-border-color",
+			"cir",
+			"theme-background-image",
+			"lightest-color",
+			"lightest",
+			"lightest_color",
+			"$lightest_color",
+			"profile-pic-wrap",
+			"responderTicket",
+			"\t\t\t\t\n",
+			" [",
+			"\t\t\t\t\t\t\t\t\t\t\n",
+			"\"css\"",
+			"css",
+			"createInterceptor",
+			"registrarHistorial",
+			"',\n",
+			"idtiposervicio",
+			"getCmp",
+			"x-panel",
+			"x-panel-header-title-default",
+			"TipoServio",
+			"pie",
+			"panel",
+			"panel\n",
+			"Compose",
+			"compose Message",
+			"compose",
+			"theme",
+			"\\theme",
+			"\\",
+			" ",
+			"public.",
+			"public.clientes_por_bandeja",
+			"qia.procesos_iso",
+			"qia.oficinas",
+			"qia.usuarios",
+			"qia.paises",
+			"qia.entidades_federativas",
+			"qia.clientes",
+			".qia_",
+			"'",
+			"\\r",
+			"\\n",
+			"\\\\r",
+			"\\\\n",
+			"\\\"",
+			"oficina",
+			"com.sitweb.shared"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"localhost",
+			"btn-evaluar-ticket",
+			"18.232.197.35",
+			"desarrollo.hlp_subcategoriaservicios",
+			"desarrollo.hlp_categoriaservicios",
+			"desarrollo.hlp_inhibidores",
+			"hlp_acciones",
+			"desarrollo.hlp_acciones",
+			".hlp_tiposervicios",
+			"desarrollo",
+			"administrador",
+			".hlp_tickets",
+			"desarrollo",
+			"administrador",
+			".hlp_subcategoriaservicios",
+			"desarrollo",
+			"administrador",
+			".hlp_prioridades",
+			"desarrollo",
+			"administrado",
+			".hlp_inhibidores",
+			"desarrollo",
+			".hlp_historialtickets",
+			"desarrollo",
+			"administrador",
+			"desarrollo",
+			"administrador",
+			".hlp_estados",
+			"desarrollo",
+			"administrador",
+			".hlp_categoriaservicios",
+			"desarrollo",
+			"administrador",
+			".hlp_accion",
+			"desarrollo",
+			"#ddd",
+			" \\",
+			"",
+			"qia.clientes_por_bandeja",
+			"public.procesos_iso",
+			"public.oficinas",
+			"public.usuarios",
+			"public.paises",
+			"public.entidades_federativas",
+			"public.clientes",
+			".",
+			"",
+			"\"",
+			"'",
+			"org.cg.cdb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "directorio.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8013,
+								8013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ifsmexico.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 411.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

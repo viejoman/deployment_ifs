@@ -1,0 +1,55 @@
+17-05-2018 12:01:01 - INI setNuevoItinerario
+17-05-2018 12:01:01 - NUM REGISTROS : 1
+17-05-2018 12:01:01 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_Jq31NeTgF6guq0i3
+    [sExpImp] => impo
+    [sOrigen] => QVNVTkNJT04=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => RUpFTVBMTyA1MTE=
+    [sNumViaje] => Vi4wMEU=
+    [sSalida] => 17/01/2018
+    [sCierredoc] => 18/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjA=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 5
+)
+
+17-05-2018 12:01:01 - REGISTRO [0] : Se crea objeto itinerario
+17-05-2018 12:01:01 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_Jq31NeTgF6guq0i3
+    [expimp] => imp
+    [origen] => ASUNCION
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => EJEMPLO 511 V.00E
+    [numviaje] => V.00E
+    [salida] => 17-01-2018
+    [cierredoc] => 18-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 05
+)
+
+17-05-2018 12:01:01 - REGISTRO [0] : Operacion INSERT
+17-05-2018 12:01:01 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_Jq31NeTgF6guq0i3
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+17-05-2018 12:01:01 - FIN setNuevoItinerario

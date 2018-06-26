@@ -1,0 +1,247 @@
+12-10-2017 10:25:55 - INI setNuevoItinerario
+12-10-2017 10:25:55 - NUM REGISTROS : 5
+12-10-2017 10:25:55 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_T36QtNRCs6jUfbCU
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJPQkVSVEE=
+    [sNumViaje] => NzQyUw==
+    [sSalida] => 18/10/2017
+    [sCierredoc] => 12/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [0] : Se crea objeto itinerario
+12-10-2017 10:25:55 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_T36QtNRCs6jUfbCU
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP ROBERTA 742S
+    [numviaje] => 742S
+    [salida] => 18-10-2017
+    [cierredoc] => 12-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [0] : Operacion INSERT
+12-10-2017 10:25:55 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_zyZvl7zUdNa28oy8
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIEJFQVRSSVo=
+    [sNumViaje] => NzQzUw==
+    [sSalida] => 25/10/2017
+    [sCierredoc] => 19/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [1] : Se crea objeto itinerario
+12-10-2017 10:25:55 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_zyZvl7zUdNa28oy8
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP BEATRIZ 743S
+    [numviaje] => 743S
+    [salida] => 25-10-2017
+    [cierredoc] => 19-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [1] : Operacion INSERT
+12-10-2017 10:25:55 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_q4vVaGrb0KdRZCtR
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJFSU5HQQ==
+    [sNumViaje] => NzQ0Uw==
+    [sSalida] => 01/11/2017
+    [sCierredoc] => 26/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [2] : Se crea objeto itinerario
+12-10-2017 10:25:55 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_q4vVaGrb0KdRZCtR
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP REINGA 744S
+    [numviaje] => 744S
+    [salida] => 01-11-2017
+    [cierredoc] => 26-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [2] : Operacion INSERT
+12-10-2017 10:25:55 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_lFU7Ze92auc3fxwf
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => UE9MQVIgTUVYSUNP
+    [sNumViaje] => NzQ1Uw==
+    [sSalida] => 08/11/2017
+    [sCierredoc] => 02/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [3] : Se crea objeto itinerario
+12-10-2017 10:25:55 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_lFU7Ze92auc3fxwf
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => POLAR MEXICO 745S
+    [numviaje] => 745S
+    [salida] => 08-11-2017
+    [cierredoc] => 02-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [3] : Operacion INSERT
+12-10-2017 10:25:55 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_y6gjXZnvhsG3jlRW
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJPQ0E=
+    [sNumViaje] => NzQ2Uw==
+    [sSalida] => 15/11/2017
+    [sCierredoc] => 09/11/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [4] : Se crea objeto itinerario
+12-10-2017 10:25:55 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_y6gjXZnvhsG3jlRW
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP ROCA 746S
+    [numviaje] => 746S
+    [salida] => 15-11-2017
+    [cierredoc] => 09-11-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 10
+)
+
+12-10-2017 10:25:55 - REGISTRO [4] : Operacion INSERT
+12-10-2017 10:25:55 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_T36QtNRCs6jUfbCU
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_zyZvl7zUdNa28oy8
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_q4vVaGrb0KdRZCtR
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_lFU7Ze92auc3fxwf
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_y6gjXZnvhsG3jlRW
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+12-10-2017 10:25:55 - FIN setNuevoItinerario

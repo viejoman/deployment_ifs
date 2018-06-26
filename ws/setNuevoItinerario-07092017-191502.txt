@@ -1,0 +1,199 @@
+07-09-2017 19:15:02 - INI setNuevoItinerario
+07-09-2017 19:15:02 - NUM REGISTROS : 4
+07-09-2017 19:15:02 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_fciEF2OvJry5l4V5
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUEVO
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJFSU5HQQ==
+    [sNumViaje] => MQ==
+    [sSalida] => 18/09/2017
+    [sCierredoc] => 13/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => Q0VOVFJBTCBBTUVSSUNBIEFORCBDQVJJQkJFQU4=
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+07-09-2017 19:15:02 - REGISTRO [0] : Se crea objeto itinerario
+07-09-2017 19:15:02 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_fciEF2OvJry5l4V5
+    [expimp] => imp
+    [origen] => ANTWERPEN
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP REINGA 1
+    [numviaje] => 1
+    [salida] => 18-09-2017
+    [cierredoc] => 13-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => CENTRAL AMERICA AND CARIBBEAN
+    [user] => yeni
+    [mes] => 09
+)
+
+07-09-2017 19:15:02 - REGISTRO [0] : Operacion INSERT
+07-09-2017 19:15:02 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_lRDDT2RRcwvSrvsz
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUEVO
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJJQ0FSREE=
+    [sNumViaje] => Mg==
+    [sSalida] => 25/09/2017
+    [sCierredoc] => 20/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => Q0VOVFJBTCBBTUVSSUNBIEFORCBDQVJJQkJFQU4=
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+07-09-2017 19:15:02 - REGISTRO [1] : Se crea objeto itinerario
+07-09-2017 19:15:02 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_lRDDT2RRcwvSrvsz
+    [expimp] => imp
+    [origen] => ANTWERPEN
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP RICARDA 2
+    [numviaje] => 2
+    [salida] => 25-09-2017
+    [cierredoc] => 20-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => CENTRAL AMERICA AND CARIBBEAN
+    [user] => yeni
+    [mes] => 09
+)
+
+07-09-2017 19:15:02 - REGISTRO [1] : Operacion INSERT
+07-09-2017 19:15:02 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_WERC79Dac4ujqMPh
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUEVO
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJPQ0E=
+    [sNumViaje] => Mw==
+    [sSalida] => 02/10/2017
+    [sCierredoc] => 27/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => Q0VOVFJBTCBBTUVSSUNBIEFORCBDQVJJQkJFQU4=
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+07-09-2017 19:15:02 - REGISTRO [2] : Se crea objeto itinerario
+07-09-2017 19:15:02 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_WERC79Dac4ujqMPh
+    [expimp] => imp
+    [origen] => ANTWERPEN
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP ROCA 3
+    [numviaje] => 3
+    [salida] => 02-10-2017
+    [cierredoc] => 27-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => CENTRAL AMERICA AND CARIBBEAN
+    [user] => yeni
+    [mes] => 09
+)
+
+07-09-2017 19:15:02 - REGISTRO [2] : Operacion INSERT
+07-09-2017 19:15:02 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_ZI1txeUYx2v2TBP4
+    [sExpImp] => impo
+    [sOrigen] => QU5UV0VSUEVO
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Tk9SRElTQUJFTExB
+    [sNumViaje] => NA==
+    [sSalida] => 09/10/2017
+    [sCierredoc] => 04/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => Q0VOVFJBTCBBTUVSSUNBIEFORCBDQVJJQkJFQU4=
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+07-09-2017 19:15:02 - REGISTRO [3] : Se crea objeto itinerario
+07-09-2017 19:15:02 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_ZI1txeUYx2v2TBP4
+    [expimp] => imp
+    [origen] => ANTWERPEN
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => NORDISABELLA 4
+    [numviaje] => 4
+    [salida] => 09-10-2017
+    [cierredoc] => 04-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => CENTRAL AMERICA AND CARIBBEAN
+    [user] => yeni
+    [mes] => 09
+)
+
+07-09-2017 19:15:02 - REGISTRO [3] : Operacion INSERT
+07-09-2017 19:15:02 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_fciEF2OvJry5l4V5
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_lRDDT2RRcwvSrvsz
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_WERC79Dac4ujqMPh
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_ZI1txeUYx2v2TBP4
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+07-09-2017 19:15:02 - FIN setNuevoItinerario

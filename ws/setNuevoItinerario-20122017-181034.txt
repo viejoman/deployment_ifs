@@ -1,0 +1,199 @@
+20-12-2017 18:10:34 - INI setNuevoItinerario
+20-12-2017 18:10:34 - NUM REGISTROS : 4
+20-12-2017 18:10:34 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_hiVP5VnBfbNvuG1j
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => WU0gRVhDRUxMRU5DRSA=
+    [sNumViaje] => Vi4wMjNF
+    [sSalida] => 26/12/2017
+    [sCierredoc] => 21/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [0] : Se crea objeto itinerario
+20-12-2017 18:10:34 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_hiVP5VnBfbNvuG1j
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => YM EXCELLENCE  V.023E
+    [numviaje] => V.023E
+    [salida] => 26-12-2017
+    [cierredoc] => 21-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [0] : Operacion INSERT
+20-12-2017 18:10:34 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_5l5vfrfbH6owv1hx
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => S09UQSBMVUtJUw==
+    [sNumViaje] => IFYuMDkyRQ==
+    [sSalida] => 02/01/2018
+    [sCierredoc] => 28/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [1] : Se crea objeto itinerario
+20-12-2017 18:10:34 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_5l5vfrfbH6owv1hx
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => KOTA LUKIS  V.092E
+    [numviaje] =>  V.092E
+    [salida] => 02-01-2018
+    [cierredoc] => 28-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [1] : Operacion INSERT
+20-12-2017 18:10:34 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_jeahVbSQNMDH1uxx
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSA1MTIg
+    [sNumViaje] => Vi4wNDZF
+    [sSalida] => 09/01/2018
+    [sCierredoc] => 04/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [2] : Se crea objeto itinerario
+20-12-2017 18:10:34 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_jeahVbSQNMDH1uxx
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 512  V.046E
+    [numviaje] => V.046E
+    [salida] => 09-01-2018
+    [cierredoc] => 04-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [2] : Operacion INSERT
+20-12-2017 18:10:34 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_9U8Kwj8rCaYFFJKn
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSA1MTEg
+    [sNumViaje] => Vi4wMzVF
+    [sSalida] => 16/01/2018
+    [sCierredoc] => 11/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTk=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [3] : Se crea objeto itinerario
+20-12-2017 18:10:34 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_9U8Kwj8rCaYFFJKn
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 511  V.035E
+    [numviaje] => V.035E
+    [salida] => 16-01-2018
+    [cierredoc] => 11-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 18:10:34 - REGISTRO [3] : Operacion INSERT
+20-12-2017 18:10:34 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_hiVP5VnBfbNvuG1j
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_5l5vfrfbH6owv1hx
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_jeahVbSQNMDH1uxx
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_9U8Kwj8rCaYFFJKn
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+20-12-2017 18:10:34 - FIN setNuevoItinerario

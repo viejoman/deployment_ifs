@@ -1,0 +1,391 @@
+20-12-2017 13:48:13 - INI setNuevoItinerario
+20-12-2017 13:48:13 - NUM REGISTROS : 8
+20-12-2017 13:48:13 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_nifSWQZ1d5yLi4TK
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJPQ0E=
+    [sNumViaje] => NzU4Uw==
+    [sSalida] => 27/12/2017
+    [sCierredoc] => 21/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [0] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_nifSWQZ1d5yLi4TK
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP ROCA 758S
+    [numviaje] => 758S
+    [salida] => 27-12-2017
+    [cierredoc] => 21-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [0] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_wnSwp1aAwGn9VqKu
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJPQkVSVEE=
+    [sNumViaje] => ODAyUw==
+    [sSalida] => 10/01/2018
+    [sCierredoc] => 04/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [1] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_wnSwp1aAwGn9VqKu
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP ROBERTA 802S
+    [numviaje] => 802S
+    [salida] => 10-01-2018
+    [cierredoc] => 04-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [1] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_1fqCT5U2ZxVCYx4T
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIEJFQVRSSUNF
+    [sNumViaje] => ODAzUw==
+    [sSalida] => 17/01/2018
+    [sCierredoc] => 11/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [2] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_1fqCT5U2ZxVCYx4T
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP BEATRICE 803S
+    [numviaje] => 803S
+    [salida] => 17-01-2018
+    [cierredoc] => 11-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [2] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_T78O8ZPfZkvdeHSc
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJFSU5HQQ==
+    [sNumViaje] => ODA0Uw==
+    [sSalida] => 24/01/2018
+    [sCierredoc] => 18/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [3] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_T78O8ZPfZkvdeHSc
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP REINGA 804S
+    [numviaje] => 804S
+    [salida] => 24-01-2018
+    [cierredoc] => 18-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [3] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_Fl72CwaT0SBq1t30
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Q0FQIFJJQ0FSREE=
+    [sNumViaje] => ODA1Uw==
+    [sSalida] => 31/01/2018
+    [sCierredoc] => 25/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [4] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_Fl72CwaT0SBq1t30
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => CAP RICARDA 805S
+    [numviaje] => 805S
+    [salida] => 31-01-2018
+    [cierredoc] => 25-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [4] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [5] : ITINERARIO => Array
+(
+    [sUID] => itid_sTpHESIROiijK7sx
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => Q0FQIFJPQkVSVEE=
+    [sNumViaje] => NzU4Uw==
+    [sSalida] => 27/12/2017
+    [sCierredoc] => 21/12/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [5] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [5] : DATA => Array
+(
+    [itid] => itid_sTpHESIROiijK7sx
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => CAP ROBERTA 758S
+    [numviaje] => 758S
+    [salida] => 27-12-2017
+    [cierredoc] => 21-12-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [5] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [6] : ITINERARIO => Array
+(
+    [sUID] => itid_TzRJpDEsv0dQ6lPz
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => Q0FQIFJPQ0E=
+    [sNumViaje] => ODAyUw==
+    [sSalida] => 10/01/2018
+    [sCierredoc] => 04/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [6] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [6] : DATA => Array
+(
+    [itid] => itid_TzRJpDEsv0dQ6lPz
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => CAP ROCA 802S
+    [numviaje] => 802S
+    [salida] => 10-01-2018
+    [cierredoc] => 04-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [6] : Operacion INSERT
+20-12-2017 13:48:13 - REGISTRO [7] : ITINERARIO => Array
+(
+    [sUID] => itid_POO2inkghtkf5kJB
+    [sExpImp] => impo
+    [sOrigen] => TE9ORE9O
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => Q0FQIFJFSU5HQQ==
+    [sNumViaje] => ODA0Uw==
+    [sSalida] => 24/01/2018
+    [sCierredoc] => 18/01/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTY=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => YENI
+    [nMes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [7] : Se crea objeto itinerario
+20-12-2017 13:48:13 - REGISTRO [7] : DATA => Array
+(
+    [itid] => itid_POO2inkghtkf5kJB
+    [expimp] => imp
+    [origen] => LONDON
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => CAP REINGA 804S
+    [numviaje] => 804S
+    [salida] => 24-01-2018
+    [cierredoc] => 18-01-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 16
+    [conexiones] => DIRECTO
+    [user] => YENI
+    [mes] => 12
+)
+
+20-12-2017 13:48:13 - REGISTRO [7] : Operacion INSERT
+20-12-2017 13:48:13 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_nifSWQZ1d5yLi4TK
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_wnSwp1aAwGn9VqKu
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_1fqCT5U2ZxVCYx4T
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_T78O8ZPfZkvdeHSc
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_Fl72CwaT0SBq1t30
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [5] => Array
+        (
+            [sUID] => itid_sTpHESIROiijK7sx
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [6] => Array
+        (
+            [sUID] => itid_TzRJpDEsv0dQ6lPz
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [7] => Array
+        (
+            [sUID] => itid_POO2inkghtkf5kJB
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+20-12-2017 13:48:13 - FIN setNuevoItinerario

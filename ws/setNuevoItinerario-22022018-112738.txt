@@ -1,0 +1,199 @@
+22-02-2018 11:27:38 - INI setNuevoItinerario
+22-02-2018 11:27:38 - NUM REGISTROS : 4
+22-02-2018 11:27:38 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_184VBJAmaAD7l0kJ
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => SEFJIDg1MA==
+    [sNumViaje] => Vi41ODEtZGVtbw==
+    [sSalida] => 16/03/2018
+    [sCierredoc] => 11/03/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTkgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => Yeni
+    [nMes] => 3
+)
+
+22-02-2018 11:27:38 - REGISTRO [0] : Se crea objeto itinerario
+22-02-2018 11:27:38 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_184VBJAmaAD7l0kJ
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => HAI 850 V.581-demo
+    [numviaje] => V.581-demo
+    [salida] => 16-03-2018
+    [cierredoc] => 11-03-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 19 DIAS
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 03
+)
+
+22-02-2018 11:27:38 - REGISTRO [0] : Operacion DELETE
+22-02-2018 11:27:38 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_eoRXtmLbNkrj3t0U
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSAwMDI=
+    [sNumViaje] => Vi4wMDItZGVtbw==
+    [sSalida] => 21/03/2018
+    [sCierredoc] => 30/03/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTggRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => Yeni
+    [nMes] => 3
+)
+
+22-02-2018 11:27:38 - REGISTRO [1] : Se crea objeto itinerario
+22-02-2018 11:27:38 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_eoRXtmLbNkrj3t0U
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 002 V.002-demo
+    [numviaje] => V.002-demo
+    [salida] => 21-03-2018
+    [cierredoc] => 30-03-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 18 DIAS
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 03
+)
+
+22-02-2018 11:27:38 - REGISTRO [1] : Operacion DELETE
+22-02-2018 11:27:38 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_r68JTLpKneg2YlHE
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSAwMDM=
+    [sNumViaje] => Vi4wMDMtZGVtbw==
+    [sSalida] => 18/03/2018
+    [sCierredoc] => 21/03/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjkgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => Yeni
+    [nMes] => 3
+)
+
+22-02-2018 11:27:38 - REGISTRO [2] : Se crea objeto itinerario
+22-02-2018 11:27:38 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_r68JTLpKneg2YlHE
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 003 V.003-demo
+    [numviaje] => V.003-demo
+    [salida] => 18-03-2018
+    [cierredoc] => 21-03-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 29 DIAS
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 03
+)
+
+22-02-2018 11:27:38 - REGISTRO [2] : Operacion DELETE
+22-02-2018 11:27:38 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_pfJITlKXFt4kcemA
+    [sExpImp] => impo
+    [sOrigen] => SE9ORyBLT05H
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => V0FOIEhBSSAwMDQ=
+    [sNumViaje] => Vi4wMDQtZGVtbw==
+    [sSalida] => 20/03/2018
+    [sCierredoc] => 30/03/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjAgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 3
+    [sUsuario] => Yeni
+    [nMes] => 3
+)
+
+22-02-2018 11:27:38 - REGISTRO [3] : Se crea objeto itinerario
+22-02-2018 11:27:38 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_pfJITlKXFt4kcemA
+    [expimp] => imp
+    [origen] => HONG KONG
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => WAN HAI 004 V.004-demo
+    [numviaje] => V.004-demo
+    [salida] => 20-03-2018
+    [cierredoc] => 30-03-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20 DIAS
+    [conexiones] => DIRECTO
+    [user] => Yeni
+    [mes] => 03
+)
+
+22-02-2018 11:27:38 - REGISTRO [3] : Operacion DELETE
+22-02-2018 11:27:38 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_184VBJAmaAD7l0kJ
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_eoRXtmLbNkrj3t0U
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_r68JTLpKneg2YlHE
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_pfJITlKXFt4kcemA
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+22-02-2018 11:27:38 - FIN setNuevoItinerario

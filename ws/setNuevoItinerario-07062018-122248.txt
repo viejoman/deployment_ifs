@@ -1,0 +1,247 @@
+07-06-2018 12:22:48 - INI setNuevoItinerario
+07-06-2018 12:22:48 - NUM REGISTROS : 5
+07-06-2018 12:22:48 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_PnWTGmFz75W25Bom
+    [sExpImp] => IMPO
+    [sOrigen] => U09VVEhBTVBUT04=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Tk9SRElTRUxMQSA=
+    [sNumViaje] => ODI1Uw==
+    [sSalida] => 20/06/2018
+    [sCierredoc] => 14/06/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjAgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 6
+)
+
+07-06-2018 12:22:48 - REGISTRO [0] : Se crea objeto itinerario
+07-06-2018 12:22:48 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_PnWTGmFz75W25Bom
+    [expimp] => IMP
+    [origen] => SOUTHAMPTON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => NORDISELLA  825S
+    [numviaje] => 825S
+    [salida] => 20-06-2018
+    [cierredoc] => 14-06-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 20 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 06
+)
+
+07-06-2018 12:22:48 - REGISTRO [0] : Operacion INSERT
+07-06-2018 12:22:48 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_NNXkZOXK4QJbKOWb
+    [sExpImp] => IMPO
+    [sOrigen] => U09VVEhBTVBUT04=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => UE9MQVIgUEVSVQ==
+    [sNumViaje] => ODI2Uw==
+    [sSalida] => 27/06/2018
+    [sCierredoc] => 21/06/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjEgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 6
+)
+
+07-06-2018 12:22:48 - REGISTRO [1] : Se crea objeto itinerario
+07-06-2018 12:22:48 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_NNXkZOXK4QJbKOWb
+    [expimp] => IMP
+    [origen] => SOUTHAMPTON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => POLAR PERU 826S
+    [numviaje] => 826S
+    [salida] => 27-06-2018
+    [cierredoc] => 21-06-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 21 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 06
+)
+
+07-06-2018 12:22:48 - REGISTRO [1] : Operacion INSERT
+07-06-2018 12:22:48 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_H64K51WvQGTxAHQD
+    [sExpImp] => IMPO
+    [sOrigen] => U09VVEhBTVBUT04=
+    [sDestino] => 
+    [sPuerto] => VkVSQUNSVVo=
+    [sBuque] => Tk9SRElTRUxMQSA=
+    [sNumViaje] => ODI1Uw==
+    [sSalida] => 04/07/2018
+    [sCierredoc] => 28/06/2018
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MjIgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 7
+)
+
+07-06-2018 12:22:48 - REGISTRO [2] : Se crea objeto itinerario
+07-06-2018 12:22:48 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_H64K51WvQGTxAHQD
+    [expimp] => IMP
+    [origen] => SOUTHAMPTON
+    [destino] => 
+    [puerto] => VERACRUZ
+    [buque] => NORDISELLA  825S
+    [numviaje] => 825S
+    [salida] => 04-07-2018
+    [cierredoc] => 28-06-2018
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 22 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 07
+)
+
+07-06-2018 12:22:48 - REGISTRO [2] : Operacion INSERT
+07-06-2018 12:22:48 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_CjM7YfwF2ZBP6AXA
+    [sExpImp] => IMPO
+    [sOrigen] => U09VVEhBTVBUT04=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => UE9MQVIgRUNVQURPUiA=
+    [sNumViaje] => ODI0Uw==
+    [sSalida] => 13/06/2018
+    [sCierredoc] => 07/06/2018
+    [sCierredesp] => null
+    [sFrecuencia] => UVVJTkNFTkFM
+    [sTransito] => MjMgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 6
+)
+
+07-06-2018 12:22:48 - REGISTRO [3] : Se crea objeto itinerario
+07-06-2018 12:22:48 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_CjM7YfwF2ZBP6AXA
+    [expimp] => IMP
+    [origen] => SOUTHAMPTON
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => POLAR ECUADOR  824S
+    [numviaje] => 824S
+    [salida] => 13-06-2018
+    [cierredoc] => 07-06-2018
+    [cierredesp] => null
+    [frecuencia] => QUINCENAL
+    [transito] => 23 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 06
+)
+
+07-06-2018 12:22:48 - REGISTRO [3] : Operacion INSERT
+07-06-2018 12:22:48 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_ajhXfomFTuc4IriE
+    [sExpImp] => IMPO
+    [sOrigen] => U09VVEhBTVBUT04=
+    [sDestino] => 
+    [sPuerto] => QUxUQU1JUkE=
+    [sBuque] => UE9MQVIgUEVSVSA=
+    [sNumViaje] => ODI2Uw==
+    [sSalida] => 27/06/2018
+    [sCierredoc] => 21/06/2018
+    [sCierredesp] => null
+    [sFrecuencia] => UVVOQ0VOQUwg
+    [sTransito] => MjQgRElBUw==
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => sdcanales
+    [nMes] => 6
+)
+
+07-06-2018 12:22:48 - REGISTRO [4] : Se crea objeto itinerario
+07-06-2018 12:22:48 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_ajhXfomFTuc4IriE
+    [expimp] => IMP
+    [origen] => SOUTHAMPTON
+    [destino] => 
+    [puerto] => ALTAMIRA
+    [buque] => POLAR PERU  826S
+    [numviaje] => 826S
+    [salida] => 27-06-2018
+    [cierredoc] => 21-06-2018
+    [cierredesp] => null
+    [frecuencia] => QUNCENAL 
+    [transito] => 24 DIAS
+    [conexiones] => DIRECTO
+    [user] => sdcanales
+    [mes] => 06
+)
+
+07-06-2018 12:22:48 - REGISTRO [4] : Operacion INSERT
+07-06-2018 12:22:48 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_PnWTGmFz75W25Bom
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_NNXkZOXK4QJbKOWb
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_H64K51WvQGTxAHQD
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_CjM7YfwF2ZBP6AXA
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_ajhXfomFTuc4IriE
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+07-06-2018 12:22:48 - FIN setNuevoItinerario

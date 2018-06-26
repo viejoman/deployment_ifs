@@ -1,0 +1,247 @@
+08-09-2017 19:02:46 - INI setNuevoItinerario
+08-09-2017 19:02:46 - NUM REGISTROS : 5
+08-09-2017 19:02:46 - REGISTRO [0] : ITINERARIO => Array
+(
+    [sUID] => itid_lZutfrn0Mh2H4Wh8
+    [sExpImp] => impo
+    [sOrigen] => U0FOIEFOVE9OSU8=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => RVZFUiBDT05RVUVTVA==
+    [sNumViaje] => NzU=
+    [sSalida] => 11/09/2017
+    [sCierredoc] => 08/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 19:02:46 - REGISTRO [0] : Se crea objeto itinerario
+08-09-2017 19:02:46 - REGISTRO [0] : DATA => Array
+(
+    [itid] => itid_lZutfrn0Mh2H4Wh8
+    [expimp] => imp
+    [origen] => SAN ANTONIO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => EVER CONQUEST 75
+    [numviaje] => 75
+    [salida] => 11-09-2017
+    [cierredoc] => 08-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 19:02:46 - REGISTRO [0] : Operacion INSERT
+08-09-2017 19:02:46 - REGISTRO [1] : ITINERARIO => Array
+(
+    [sUID] => itid_1HA8JPAHTYjMk1xY
+    [sExpImp] => impo
+    [sOrigen] => U0FOIEFOVE9OSU8=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => WElOIFNIQU5HSEFJ
+    [sNumViaje] => MTAx
+    [sSalida] => 18/09/2017
+    [sCierredoc] => 15/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 19:02:46 - REGISTRO [1] : Se crea objeto itinerario
+08-09-2017 19:02:46 - REGISTRO [1] : DATA => Array
+(
+    [itid] => itid_1HA8JPAHTYjMk1xY
+    [expimp] => imp
+    [origen] => SAN ANTONIO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => XIN SHANGHAI 101
+    [numviaje] => 101
+    [salida] => 18-09-2017
+    [cierredoc] => 15-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 19:02:46 - REGISTRO [1] : Operacion INSERT
+08-09-2017 19:02:46 - REGISTRO [2] : ITINERARIO => Array
+(
+    [sUID] => itid_QCAImX0x97FwXcLk
+    [sExpImp] => impo
+    [sOrigen] => U0FOIEFOVE9OSU8=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => VkFOVEFHRQ==
+    [sNumViaje] => MjA=
+    [sSalida] => 25/09/2017
+    [sCierredoc] => 22/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 19:02:46 - REGISTRO [2] : Se crea objeto itinerario
+08-09-2017 19:02:46 - REGISTRO [2] : DATA => Array
+(
+    [itid] => itid_QCAImX0x97FwXcLk
+    [expimp] => imp
+    [origen] => SAN ANTONIO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => VANTAGE 20
+    [numviaje] => 20
+    [salida] => 25-09-2017
+    [cierredoc] => 22-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 19:02:46 - REGISTRO [2] : Operacion INSERT
+08-09-2017 19:02:46 - REGISTRO [3] : ITINERARIO => Array
+(
+    [sUID] => itid_i9yp5v3t924KsMAO
+    [sExpImp] => impo
+    [sOrigen] => U0FOIEFOVE9OSU8=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => SVRBTCBDT05URVNTQQ==
+    [sNumViaje] => Nzc=
+    [sSalida] => 02/10/2017
+    [sCierredoc] => 29/09/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 19:02:46 - REGISTRO [3] : Se crea objeto itinerario
+08-09-2017 19:02:46 - REGISTRO [3] : DATA => Array
+(
+    [itid] => itid_i9yp5v3t924KsMAO
+    [expimp] => imp
+    [origen] => SAN ANTONIO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => ITAL CONTESSA 77
+    [numviaje] => 77
+    [salida] => 02-10-2017
+    [cierredoc] => 29-09-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 19:02:46 - REGISTRO [3] : Operacion INSERT
+08-09-2017 19:02:46 - REGISTRO [4] : ITINERARIO => Array
+(
+    [sUID] => itid_JQ2MGuaU49i2pLhD
+    [sExpImp] => impo
+    [sOrigen] => U0FOIEFOVE9OSU8=
+    [sDestino] => 
+    [sPuerto] => TUFOWkFOSUxMTw==
+    [sBuque] => WElOIEJFSUpJTkc=
+    [sNumViaje] => MTAx
+    [sSalida] => 09/10/2017
+    [sCierredoc] => 06/10/2017
+    [sCierredesp] => null
+    [sFrecuencia] => U0VNQU5BTA==
+    [sTransito] => MTQ=
+    [sConexiones] => RElSRUNUTw==
+    [nCRUDAction] => 1
+    [sUsuario] => yeni
+    [nMes] => 9
+)
+
+08-09-2017 19:02:46 - REGISTRO [4] : Se crea objeto itinerario
+08-09-2017 19:02:46 - REGISTRO [4] : DATA => Array
+(
+    [itid] => itid_JQ2MGuaU49i2pLhD
+    [expimp] => imp
+    [origen] => SAN ANTONIO
+    [destino] => 
+    [puerto] => MANZANILLO
+    [buque] => XIN BEIJING 101
+    [numviaje] => 101
+    [salida] => 09-10-2017
+    [cierredoc] => 06-10-2017
+    [cierredesp] => null
+    [frecuencia] => SEMANAL
+    [transito] => 14
+    [conexiones] => DIRECTO
+    [user] => yeni
+    [mes] => 09
+)
+
+08-09-2017 19:02:46 - REGISTRO [4] : Operacion INSERT
+08-09-2017 19:02:46 - RESPONSE Array
+(
+    [0] => Array
+        (
+            [sUID] => itid_lZutfrn0Mh2H4Wh8
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [1] => Array
+        (
+            [sUID] => itid_1HA8JPAHTYjMk1xY
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [2] => Array
+        (
+            [sUID] => itid_QCAImX0x97FwXcLk
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [3] => Array
+        (
+            [sUID] => itid_i9yp5v3t924KsMAO
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+    [4] => Array
+        (
+            [sUID] => itid_JQ2MGuaU49i2pLhD
+            [nEstatus] => 0
+            [sLog] => OK
+        )
+
+)
+
+08-09-2017 19:02:46 - FIN setNuevoItinerario
