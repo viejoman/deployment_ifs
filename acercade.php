@@ -91,7 +91,7 @@ $_GET["option"] = 2;
 				                            C.P.91700<br> 
 				                            Veracruz, Ver.<br>
 				                            Tel: 52 229 9318038<br>
-											Fax: 52 229 9318038 Ext  102
+																		Fax: 52 229 9318038 Ext. 102
 										</div>
 									 </div>
 								  </div>
@@ -106,12 +106,10 @@ $_GET["option"] = 2;
 									 <div id="collapseTwo-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-df">
 										    <strong>Direcci&oacute;n</strong><br>      
-				                            Hegel 209-901<br> 
-				                            Col. Polanco<br>
-                                            C.P. 11560<br> 
-                                            Mexico, DF.<br>
-                                            Tel: 52 55 52508515<br>
-											Fax: 52 55 52508515
+												Leon de los Aldamas No.32 <br> 
+												Col. Roma Sur entre Tonala y Monterrey <br> 
+												C.P. 06760<br> 
+												Cd. de M&eacute;xico 
 										</div>
 									 </div>
 								  </div>
@@ -126,12 +124,10 @@ $_GET["option"] = 2;
 									 <div id="collapseThree-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-manzanillo">
                                           <strong>Direcci&oacute;n</strong><br>
-										  Boulevard Miguel de la Madrid No. 302-C<br>
-										  Col. Tapeixtle<br> 
-										  C.P. 28239 <br> 
-										  Manzanillo, Col<br>
-										  Tel: 52 314 3336415, 16 y 332 2820441, 442, 443<br>
-										  Fax: 52 314 3336417
+																					Av Teniente Azueta No.22<br>
+																					Col. Burocrata <br>
+																					C.P. 28239 <br>
+																					Manzanillo, Colima.
 										</div>
 									 </div>
 								  </div>
@@ -146,13 +142,10 @@ $_GET["option"] = 2;
 									 <div id="collapseFour-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-altamira">
 												<strong>Direcci&oacute;n</strong><br>
-												Plaza Comercial Hait&iacute;. Local 7 y 8<br />
-												Calle Hait&iacute; No. 916 <br>
-												Col. Las Am&eacute;ricas <br>
-												CP. 89329<br>
-												Tampico, Tamps.<br>
-												Tel: 52 (833)2609322,   52 (833)2609323<br>   
-												Fax: 52 (833)2609324
+												Plaza Comercial Haiti Local 7 y 8 
+												Col. las Americas 
+												C.P. 89329 
+												Tampico, Tamaulipas.
 										</div>
 									 </div>
 								  </div>
@@ -168,13 +161,9 @@ $_GET["option"] = 2;
 									 <div id="collapseFive-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-monterrey">
                                             <strong>Direcci&oacute;n</strong><br>
-										  	Torre AVALANZ, Batall&oacute;n de San Patricio #109<br>
-										  	Piso 17, Oficina 1707<br>
-										  	Col. Valle Ote. San Pedro Garza Garc&iacute;a<br>
-										  	C.P. 66260<br>
-										  	Monterrey, N. L.<br> 
-										  	Tel: 52 81 50009063<br>
-											Fax: 52 81 81240013
+																						Batallon de San Patricio <br>
+																						No.109 Monterrey <br>
+																						C.P. 66260
 										</div>
 									 </div>
 								  </div>
@@ -189,13 +178,11 @@ $_GET["option"] = 2;
 									 <div id="collapseSix-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-guadalajara">
                                             <strong>Direcci&oacute;n</strong><br>
-										  	Av. Am&eacute;ricas 1545 Piso 22<br> 
-										  	Oficina 2231 <br>
-										  	Col. Providencia<br>
-										  	C.P. 44630<br>
-										  	Guadalajara, Jalisco<br>
-										  	Tel:  +52 (33) 8000-0038<br>
-											Fax:  +52 (33) 8000-0038
+																						Calle Justicia <br>
+																						No. 2732<br>
+																						Col. Circuito Vallarta <br>
+																						C.P. 44630 <br>
+																						Guadalajara Jalisco.
 										</div>
 									 </div>
 								  </div>
@@ -203,21 +190,19 @@ $_GET["option"] = 2;
 								  <div class="panel panel-queretaro">
 									 <div class="panel-heading">
 										<h4 class="panel-title">
-										  <a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseSix-alt3">
+										  <a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseSeven-alt3">
 											<i class="fa fa-angle-right"></i> Quer&eacute;taro
 										  </a>
 										</h4>
 									 </div>
-									 <div id="collapseSix-alt3" class="panel-collapse collapse">
+									 <div id="collapseSeven-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-queretaro">
                                             <strong>Direcci&oacute;n</strong><br>
-										  	Av. Am&eacute;ricas 1545 Piso 22<br> 
-										  	Oficina 2231 <br>
-										  	Col. Providencia<br>
-										  	C.P. 44630<br>
-										  	Guadalajara, Jalisco<br>
-										  	Tel:  +52 (33) 8000-0038<br>
-											Fax:  +52 (33) 8000-0038
+																						Libramiento Sur Poniente 219<br>
+																						Local 10<br>
+																						Col. Real de Juriquilla <br>
+																						C.P. 76222 <br>
+																						Quer&eacute;taro Qro.
 										</div>
 									 </div>
 								  </div>
@@ -225,21 +210,19 @@ $_GET["option"] = 2;
 								  <div class="panel panel-aeropuertocdmx">
 									 <div class="panel-heading">
 										<h4 class="panel-title">
-										  <a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseSix-alt3">
+										  <a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseEight-alt3">
 											<i class="fa fa-angle-right"></i> Aeropuerto Internacional de la Cd. de M&eacute;xico
 										  </a>
 										</h4>
 									 </div>
-									 <div id="collapseSix-alt3" class="panel-collapse collapse">
+									 <div id="collapseEight-alt3" class="panel-collapse collapse">
 										<div class="panel-body panel-ifs-aeropuertocdmx">
                                             <strong>Direcci&oacute;n</strong><br>
-										  	Av. Am&eacute;ricas 1545 Piso 22<br> 
-										  	Oficina 2231 <br>
-										  	Col. Providencia<br>
-										  	C.P. 44630<br>
-										  	Guadalajara, Jalisco<br>
-										  	Tel:  +52 (33) 8000-0038<br>
-											Fax:  +52 (33) 8000-0038
+																						Calle Educaci&oacute;n Publica No.62 <br>
+																						Col. Federal <br>
+																						Delegacion Venustiano Carranza <br>
+																						C.P. 15700 <br>
+																						Ciudad de M&eacute;xico. 
 										</div>
 									 </div>
 								  </div>
