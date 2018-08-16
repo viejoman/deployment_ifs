@@ -5,7 +5,7 @@ include_once('lang.php');
 session_start();
 $lang = isset($_SESSION['lang']) ? $_SESSION['lang'] : 'es';
   
-$_GET["option"] = 6;
+$_GET["option"] = 8;
 
 $GLOBALS['DEBUG_MODE'] = 0;
 $GLOBALS['ct_recipient']   = 'info@ifsmexico.com';
@@ -173,6 +173,8 @@ $GLOBALS['ct_msg_subject'] = 'Contacto desde el portal IFS Mexico';
 			                            <option value="3">Altamira, Tamps.</option>
 			                            <option value="4">Monterrey, Nvo. L&eacute;on</option>
 			                            <option value="6">Guadalajara, Jal.</option>
+										<option value="7">Quer&eacute;taro, Qro.</option>
+										<option value="8">Aeropuerto Intl. de la Cd. de M&eacute;xico</option>
 			                        </select>
                                     </span>
                                 </h2>
