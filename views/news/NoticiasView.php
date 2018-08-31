@@ -21,12 +21,39 @@
                                         <div class="panel box box-primary">
                                             <div class="box-header">
                                                 <h4 class="box-title">
+                                                    <a href="#collapseNine" data-parent="#accordion" data-toggle="collapse">
+                                                        Apertura Nuevas Oficinas de IFS M&Eacute;XICO
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div class="panel-collapse collapse in" id="collapseNine">
+                                                <div class="box-body" style="text-align:justify;">
+                                                    IFS M&eacute;xico ampl&iacute;a su presencia con la apertura de la Sucursal
+                                                    <br/><br/>
+                                                    <strong>Aeropuerto</strong>: Calle Educaci&oacute;n P&uacute;blica <br/>
+                                                    No. 62 <br/>
+                                                    Col. Federal Delegación Venustiano Carranza <br/>
+                                                    C.P. 15700 <br/>
+                                                    Ciudad de M&eacute;xico.<br/>
+                                                    <br/>
+                                                    <strong>Quer&eacute;taro</strong>: Libramiento Sur Poniente 219 
+                                                    Local 10 <br/>
+                                                    Col. Real de Juriquilla <br/>
+                                                    C.P. 76222 <br/>
+                                                    Quer&eacute;taro, Qro.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--  -->
+                                        <div class="panel box box-primary">
+                                            <div class="box-header">
+                                                <h4 class="box-title">
                                                     <a href="#collapseEight" data-parent="#accordion" data-toggle="collapse">
                                                         GRUPO IFS recibe "Lingote de Plata Valencia Port - 2017", que otorga el Grupo Editorial Grupo MEN CAR
                                                     </a>
                                                 </h4>
                                             </div>
-                                            <div class="panel-collapse collapse in" id="collapseEight">
+                                            <div class="panel-collapse collapse" id="collapseEight">
                                                 <div class="box-body" style="text-align:justify;">
                                                     	Tenemos el orgullo de comunicarles la concesi&oacute;n a D. Jose Quilis, 
                                                     	presidente del Grupo IFS, del galard&oacute;n "Lingote de Plata Valencia Port - 2017", 
@@ -36,7 +63,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!--  -->
+                                        <!--  -->                                        
                                         <div class="panel box box-primary">
                                             <div class="box-header">
                                                 <h4 class="box-title">
