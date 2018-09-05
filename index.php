@@ -45,11 +45,53 @@ $_GET["option"] = 1;
 	
 	
 </div>
+
 <div id="anuncioModalIFS" class="modal fade in">
-    <div class="modal-dialog" style="max-width: 749px">
+    <div class="modal-dialog" style="max-width: 600">
         <div class="modal-content">
             <div class="modal-body">
-                <img src="img/ifs_mexico_nueva_dir.png" class="img-responsive" />
+                <div id="myCarouselModal" class="carousel slide" style="width: 600; margin: 0 auto" data-ride="carousel">
+							  <!-- Indicators -->
+							   
+							  <ol class="carousel-indicators">
+							    <li data-target="#myCarouselModal" data-slide-to="0" class="active"></li>
+							    <li data-target="#myCarouselModal" data-slide-to="1"></li>
+							    <li data-target="#myCarouselModal" data-slide-to="2"></li>                                
+							  </ol>
+							  
+							
+							  <!-- Wrapper for slides -->
+							  <div class="carousel-inner">
+
+                                <div class="item active" class="img-responsive center-block">
+							      <img src="img/flyers/FLYER_QUERETARO.jpg" alt="Queretaro" style="width: 600px;">
+							    </div>
+
+                                <div class="item" class="img-responsive center-block">
+							      <img src="img/flyers/FLYERS_V1.jpg" alt="" style="width: 600px;">
+							    </div>
+
+                                <div class="item" class="img-responsive center-block">
+							      <img src="img/flyers/FLYER_XIAMEN.jpg" alt="" style="width: 600px;">
+							    </div>
+							    
+							  </div>
+							
+							  <!-- Left and right controls -->
+							  
+							  <a class="left carousel-control" href="#myCarouselModal" data-slide="prev">
+							    <span class="glyphicon glyphicon-chevron-left"></span>
+							    <span class="sr-only">Previous</span>
+							  </a>
+							  <a class="right carousel-control" href="#myCarouselModal" data-slide="next">
+							    <span class="glyphicon glyphicon-chevron-right"></span>
+							    <span class="sr-only">Next</span>
+							  </a>
+							  
+							</div>
+		
+											
+				</div>		
             </div>
         </div>
     </div>
@@ -60,11 +102,11 @@ $_GET["option"] = 1;
 <?php include_once("views/shared/LayoutScripts.php"); ?>
 
 <script type="text/javascript">
-	/*
+	
 	$(document).ready(function() {
         $('#anuncioModalIFS').modal('show');
     });
-    */
+    
 </script>
 
 </body>

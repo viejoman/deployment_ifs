@@ -285,13 +285,17 @@ Una vez m&aacute;s, les recordamos que estamos encantados de servirle y poder cu
 							    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 							    <li data-target="#myCarousel" data-slide-to="1"></li>
 							    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                <li data-target="#myCarousel" data-slide-to="3"></li>
+                                <li data-target="#myCarousel" data-slide-to="4"></li>
+                                <li data-target="#myCarousel" data-slide-to="5"></li>
 							  </ol>
 							  
 							
 							  <!-- Wrapper for slides -->
 							  <div class="carousel-inner">
+
 							    <div class="item active" class="img-responsive center-block">
-							      <img src="img/flyers/flyer_aereo_cargo.jpg" alt="Air Cargo Services" style="width: 300px;">
+							      <img src="img/flyers/flyer_aereo_cargo_update.jpg" alt="Air Cargo Services" style="width: 300px;">
 							    </div>
 								 
 							    <div class="item" class="img-responsive center-block">
@@ -300,6 +304,18 @@ Una vez m&aacute;s, les recordamos que estamos encantados de servirle y poder cu
 							
 							    <div class="item" class="img-responsive center-block">
 							      <img src="img/flyers/FLYER_PTOMORELOS_14_v02.jpg" alt="Puerto Morelos" style="width: 300px;">
+							    </div>
+
+                                <div class="item" class="img-responsive center-block">
+							      <img src="img/flyers/FLYER_QUERETARO.jpg" alt="Queretaro" style="width: 300px;">
+							    </div>
+
+                                <div class="item" class="img-responsive center-block">
+							      <img src="img/flyers/FLYERS_V1.jpg" alt="" style="width: 300px;">
+							    </div>
+
+                                <div class="item" class="img-responsive center-block">
+							      <img src="img/flyers/FLYER_XIAMEN.jpg" alt="" style="width: 300px;">
 							    </div>
 							    
 							  </div>
