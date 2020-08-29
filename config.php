@@ -14,7 +14,7 @@
 		define("domain", $_SERVER['SERVER_NAME']);
 		define("db_server", "localhost");
 		define("db_user", "ifsmexic");
-		define("db_password", "4jrE_MX5O4bYcgBB5");
+		define("db_password", "B4>`7q[`-EU=#h'nfW(N7n6Ex");
 		define("db_bdata", "ifsmexico");
 	}
 
